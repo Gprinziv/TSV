@@ -1,7 +1,54 @@
-@(message: String)
+<!DOCTYPE HTML>
+<html lang="en">
+  
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Limelight|Flamenco|Federo|Yesteryear|Josefin Sans|Spinnaker|Sansita One|Handlee|Droid Sans|Oswald:400,300,700" media="screen" rel="stylesheet" type="text/css" />
+    <link href="@routes.Assets.at("stylesheets/bootstrap.css")" media="screen" rel="stylesheet" type="text/css" />
+    <link href="@routes.Assets.at("stylesheets/bootstrap-responsive.css")" media="screen" rel="stylesheet" type="text/css" />
+    <link href="@routes.Assets.at("stylesheets/common.css")" media="screen" rel="stylesheet" type="text/css" />
+    <link href="@routes.Assets.at("stylesheets/fontawesome.css")" media="screen" rel="stylesheet" type="text/css" />
+    <link href="@routes.Assets.at("stylesheets/project.css")" media="screen" rel="stylesheet" type="text/css" />
+    <link href="@routes.Assets.at("stylesheets/homepage.css")" media="screen" rel="stylesheet" type="text/css" />
+    <!-- Typekit fonts require an account and a kit containing the fonts used. see https://typekit.com/plans for details. <script type="text/javascript" src="//use.typekit.net/YOUR_KIT_ID.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+-->
+    <title>Homepage</title>
+  </head>
+  
+  <body>
+    <div id="absolute-wrapper">
+      <img class="image">
+    </div>
+    <div class="container-fluid">
+      <div class="row-fluid row-fluid-1">
+        <span class="span6">
+          <h2 class="heading">Welcome to OpenGov</h2>
+          <p>OpenGov lets you stay informed on all the issues and make sure your representatives are representing&nbsp;<strong>you</strong>.</p>
+        </span>
+        <span class="span6 span6-1">
+          <form class="form-inline" action="">
+            <input class="textinput search-query" type="text" placeholder="Placeholder" name="">
+            <button class="btn btn-primary">Search</button>
+          </form>
+        </span>
+      </div>
+      <div class="row-fluid">
+        <span class="span3"> <i class="icon icon-user pull-center"></i> 
+          <p>People</p>
+        </span>
+        <span class="span3"> <i class="icon icon-list pull-center"></i> 
+          <p>Bills</p>
+        </span>
+        <span class="span3"> <i class="icon icon-group pull-center"></i> 
+          <p>Committees</p>
+        </span>
+        <span class="span3"> <i class="icon icon-comments-alt pull-center"></i> 
+          <p>Topics</p>
+        </span>
+      </div>
+    </div>
+  </body>
 
-@main("Welcome to Play 2.1") {
-    
-    @play20.welcome(message, style = "Java")
-    
-}
+</html>
