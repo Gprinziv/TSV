@@ -1,4 +1,4 @@
-@(title: String)
+@(bill: models.Bill, version: models.BillVersion)
 
 <!DOCTYPE HTML>
 <html lang="en">
@@ -16,7 +16,7 @@
     <!-- Typekit fonts require an account and a kit containing the fonts used. see https://typekit.com/plans for details. <script type="text/javascript" src="//use.typekit.net/YOUR_KIT_ID.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 -->
-    <title>@title</title>
+    <title>@bill.getName()</title>
   </head>
   
   <body>
@@ -57,7 +57,7 @@
         </span>
         <span class="span10">
           <div class="container-fluid">
-            <h1 class="dom-heading dom-heading-1">@title</h1>
+            <h1 class="dom-heading dom-heading-1">@bill.getName()</h1>
             <div class="row-fluid">
               <span class="span12">
                 <select class="pull-right pull-right-1" name="">
@@ -78,12 +78,7 @@
                 </ul>
               </span>
             </div>
-            <p>Existing law establishes the State<b> Water</b> Resources Control Board and authorizes the board to adopt regulations to carry out its powers and duties. Under existing law, the Porter-Cologne <b>Water</b> Quality Control Act, the board is required to formulate
-              and adopt state policy for<b> water</b> quality control. Existing law, the California Safe Drinking <b>Water </b>Act, requires the State Department of Public Health to administer provisions relating to the regulation of drinking <b>water</b> to protect public
-              health, including, but not limited to, conducting research, studies, and demonstration programs relating to the provision of a dependable, safe supply of drinking <b>water</b>, enforcing the federal Safe Drinking <b>Water</b> Act, adopting enforcement regulations,
-              and conducting studies and investigations to assess the quality of<b> water</b> in domestic <b>water</b> supplies. This bill would establish the Nitrate at Risk Area Fund, to be administered by the board and, upon appropriation by the Legislature, moneys
-              in the fund would be available for the purposes of developing and implementing sustainable and affordable solutions for disadvantaged communities in specified areas designated by the department, in conjunction with the board.
-              <br>
+            <p>@version.getText()
             </p>
             <div class="row-fluid">
               <span class="span12">
