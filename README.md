@@ -84,11 +84,12 @@ There's not right or wrong way to do this, so I'll just explain my workflow:
                 </choice>
                and we will </P>
             </SYNC>
-
+            
+    * Unfortunately, I am sure there will be overlap between utterances and speakers (more than 1 speaker in a single utterance).  In this case, just assign the speaker who speaks the majority of the utterance.
 
 Important Notes
 ---------------
 This is how we can break up who does what.  I'll do the first hour, and Giovanni, you can do the second hour.  I have broken it up right as a new speaker begins.
 
  * Bradley: 00:00:00 - 1:08:18
- * Giovanni: 1:08:18 - 2:07:00  
+ * Giovanni: 1:08:18 - 2:07:00 (this begins at line 4505)
