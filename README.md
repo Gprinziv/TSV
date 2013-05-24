@@ -10,6 +10,7 @@ General Information
     * `phrase_change` - minor or major word changes
     * `grammar` - capitalization, etc
     * `punct` - adding or deleting punctuation
+ * Audio link: 
 
 Instructions
 ------------
@@ -89,7 +90,8 @@ There's not right or wrong way to do this, so I'll just explain my workflow:
 
 Important Notes
 ---------------
-This is how we can break up who does what.  I'll do the first hour, and Giovanni, you can do the second hour.  I have broken it up right as a new speaker begins.
 
- * Bradley: 00:00:00 - 1:08:18
- * Giovanni: 1:08:18 - 2:07:00 (this begins at line 4505)
+ * This is how we can break up who does what.  I'll do the first hour, and Giovanni, you can do the second hour.  I have broken it up right as a new speaker begins.
+     * Bradley: 00:00:00 - 1:08:18
+     * Giovanni: 1:08:18 - 2:07:00 (this begins at line 4505)
+ * MAVIS adds underscores into the transcript.  These should all be removed.
