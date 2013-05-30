@@ -1,6 +1,6 @@
 /* Fill Legislator table */
 INSERT INTO opengov.Legislator (last, first)
-   SELECT leginfo.last_name, leginfo.first_name
+   SELECT DISTINCT leginfo.last_name, leginfo.first_name
    FROM capublic.legislator_tbl leginfo;
 
 SHOW WARNINGS;
@@ -42,15 +42,14 @@ UPDATE capublic.bill_version_tbl SET appropriation = FALSE WHERE appropriation =
 UPDATE capublic.bill_version_tbl SET appropriation = TRUE WHERE appropriation = 'Yes';
 
 INSERT INTO opengov.BillVersion (vid, bid, date, state, subject, appropriation,
-   substantive_changes, text)
+   substantive_changes)
    SELECT leginfo.bill_version_id,
           leginfo.bill_id,
           leginfo.bill_version_action_date,
           leginfo.bill_version_action,
           leginfo.subject,
           leginfo.appropriation,
-          leginfo.substantive_changes,
-          leginfo.bill_xml
+          leginfo.substantive_changes
    FROM capublic.bill_version_tbl leginfo;
 
 SHOW WARNINGS;

@@ -4,9 +4,10 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.util.ArrayList;
 import java.util.Date;
-import java.util.List;
+import java.util.HashMap;
+import java.util.LinkedHashMap;
+import java.util.Map;
 
 import play.cache.Cache;
 import play.db.DB;
@@ -18,6 +19,8 @@ public class BillVersion {
    private String state;
    private Boolean appropriation;
    private Boolean substantive_changes;
+   private String title;
+   private String digest;
    private String text;
    
    private static final String CACHE_PREFIX = "BillVersion.";
@@ -26,19 +29,23 @@ public class BillVersion {
            "appropriation, substantive_changes FROM BillVersion WHERE vid = ?";
 
    private static final String GET_FROM_BID = "SELECT vid, bid, date, state, " +
-           "appropriation, substantive_changes FROM BillVersion WHERE bid = ?";
+           "appropriation, substantive_changes, digest, title " +
+           "FROM BillVersion WHERE bid = ? ORDER BY date ASC";
 
    private static final String GET_TEXT = "SELECT text FROM BillVersion " +
            "WHERE vid = ?";
 
    public BillVersion(String vid, String bid, Date date, String state,
-         Boolean appropriation, Boolean substantive_changes, String text) {
+         Boolean appropriation, Boolean substantive_changes, String title,
+         String digest, String text) {
       this.vid = vid;
       this.bid = bid;
       this.date = date;
       this.state = state;
       this.appropriation = appropriation;
       this.substantive_changes = substantive_changes;
+      this.title = title;
+      this.digest = digest;
       this.text = text;
    }
 
@@ -65,6 +72,8 @@ public class BillVersion {
                   res.getString("state"),
                   res.getBoolean("appropriation"),
                   res.getBoolean("substansive_changes"),
+                  res.getString("title"),
+                  res.getString("digest"),
                   null
                   );
             Cache.set(CACHE_PREFIX + id, ret);
@@ -123,6 +132,14 @@ public class BillVersion {
       return substantive_changes;
    }
 
+   public String getTitle() {
+      return title;
+   }
+
+   public String getDigest() {
+      return digest;
+   }
+
    public String getText() {
       if (text != null) {
          return text;
@@ -176,8 +193,8 @@ public class BillVersion {
       }
    }
 
-   public static List<BillVersion> getVersions(String id) {
-      List<BillVersion> ret = null;
+   public static LinkedHashMap<String, BillVersion> getVersions(String id) {
+      LinkedHashMap<String, BillVersion> ret = null;
       Connection connection = DB.getConnection();
       PreparedStatement get = null;
       ResultSet res = null;
@@ -187,16 +204,18 @@ public class BillVersion {
          get.setString(1, id);
          res = get.executeQuery();
 
-         ret = new ArrayList<BillVersion>();
+         ret = new LinkedHashMap<String, BillVersion>();
          
          while (res.next()) {
-            ret.add(new BillVersion(
+            ret.put(res.getString("vid"), new BillVersion(
                   res.getString("vid"),
                   res.getString("bid"),
                   res.getDate("date"),
                   res.getString("state"),
                   res.getBoolean("appropriation"),
                   res.getBoolean("substantive_changes"),
+                  res.getString("title"),
+                  res.getString("digest"),
                   null
                   ));
          }

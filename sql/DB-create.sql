@@ -1,6 +1,6 @@
 USE opengov;
 
-CREATE TABLE Legislator (
+CREATE TABLE IF NOT EXISTS Legislator (
    pid   INTEGER AUTO_INCREMENT,
    last  VARCHAR(50) NOT NULL,
    first VARCHAR(50) NOT NULL,
@@ -10,7 +10,7 @@ CREATE TABLE Legislator (
 ENGINE = INNODB
 CHARACTER SET utf8 COLLATE utf8_general_ci;
 
-CREATE TABLE Term (
+CREATE TABLE IF NOT EXISTS Term (
    pid      INTEGER,
    year     YEAR,
    district INTEGER(3),
@@ -25,7 +25,7 @@ CREATE TABLE Term (
 ENGINE = INNODB
 CHARACTER SET utf8 COLLATE utf8_general_ci;
 
-CREATE TABLE Committee (
+CREATE TABLE IF NOT EXISTS Committee (
    cid  INTEGER(3),
    name VARCHAR(200) NOT NULL,
 
@@ -34,7 +34,7 @@ CREATE TABLE Committee (
 ENGINE = INNODB
 CHARACTER SET utf8 COLLATE utf8_general_ci;
 
-CREATE TABLE servesOn (
+CREATE TABLE IF NOT EXISTS servesOn (
    pid      INTEGER,
    year     YEAR,
    district INTEGER(3),
@@ -48,7 +48,7 @@ CREATE TABLE servesOn (
 ENGINE = INNODB
 CHARACTER SET utf8 COLLATE utf8_general_ci;
 
-CREATE TABLE Bill (
+CREATE TABLE IF NOT EXISTS Bill (
    bid     VARCHAR(20),
    type    VARCHAR(3) NOT NULL,
    number  INTEGER NOT NULL,
@@ -64,7 +64,7 @@ CREATE TABLE Bill (
 ENGINE = INNODB
 CHARACTER SET utf8 COLLATE utf8_general_ci;
 
-CREATE TABLE Hearing (
+CREATE TABLE IF NOT EXISTS Hearing (
    date DATE,
    bid  VARCHAR(20),
    cid  INTEGER(3),
@@ -76,7 +76,7 @@ CREATE TABLE Hearing (
 ENGINE = INNODB
 CHARACTER SET utf8 COLLATE utf8_general_ci;
 
-CREATE TABLE Action (
+CREATE TABLE IF NOT EXISTS Action (
    bid  VARCHAR(20),
    date DATE,
    text TEXT,
@@ -86,7 +86,7 @@ CREATE TABLE Action (
 ENGINE = INNODB
 CHARACTER SET utf8 COLLATE utf8_general_ci;
 
-CREATE TABLE Motion (
+CREATE TABLE IF NOT EXISTS Motion (
    mid  INTEGER(20),
    bid  VARCHAR(20),
    date DATE,
@@ -98,7 +98,7 @@ CREATE TABLE Motion (
 ENGINE = INNODB
 CHARACTER SET utf8 COLLATE utf8_general_ci;
 
-CREATE TABLE votesOn (
+CREATE TABLE IF NOT EXISTS votesOn (
    pid  INTEGER(3),
    mid  INTEGER(20),
    vote ENUM('Yea', 'Nay', 'Abstain') NOT NULL,
@@ -110,15 +110,17 @@ CREATE TABLE votesOn (
 ENGINE = INNODB
 CHARACTER SET utf8 COLLATE utf8_general_ci;
 
-CREATE TABLE BillVersion (
+CREATE TABLE IF NOT EXISTS BillVersion (
    vid                 VARCHAR(30),
    bid                 VARCHAR(20),
    date                DATE,
    state               ENUM('Chaptered', 'Introduced', 'Amended Assembly', 'Amended Senate',
-      'Enrolled', 'Proposed', 'Amended', 'Vetoed') NOT NULL,
+                            'Enrolled', 'Proposed', 'Amended', 'Vetoed') NOT NULL,
    subject             TEXT,
    appropriation       BOOLEAN,
    substantive_changes BOOLEAN,
+   title               TEXT,
+   digest              MEDIUMTEXT,
    text                MEDIUMTEXT,
 
    PRIMARY KEY (vid),
@@ -127,7 +129,7 @@ CREATE TABLE BillVersion (
 ENGINE = INNODB
 CHARACTER SET utf8 COLLATE utf8_general_ci;
 
-CREATE TABLE authors (
+CREATE TABLE IF NOT EXISTS authors (
    pid          INTEGER(3),
    bid          VARCHAR(20),
    vid          VARCHAR(30),

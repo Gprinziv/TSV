@@ -6,7 +6,7 @@ import views.html.search;
 
 public class Search extends Controller {
 
-   public static Result search(String id) {
-      return ok(search.render());
+   public static Result search(String query) {
+      return ok(search.render(query));
    }
 }

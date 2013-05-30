@@ -5,17 +5,21 @@
 # Home page
 GET     /                           controllers.Application.index()
 
-# Bill page
-GET     /bill/:id                   controllers.Bill.show(id: String)
+# Bill pages
+GET		/bill						controllers.Bill.list()
+GET     /bill/:id                   controllers.Bill.show(id: String, vid=null)
+GET		/bill/:id/:vid              controllers.Bill.show(id: String, vid: String)
 
 # Hearing page
+GET		/hearing					controllers.Hearing.list()
 GET		/hearing/:id				controllers.Hearing.show(id: String)
 
 # Person page
+GET		/person						controllers.Person.list()
 GET		/person/:id					controllers.Person.show(id: Integer)
 
 # Search page
-GET		/search/:query				controllers.Search.search(query: String)
+GET		/search						controllers.Search.search(query: String)
 
 # Map static resources from the /public folder to the /assets URL path
 GET     /assets/*file               controllers.Assets.at(path="/public", file)

@@ -44,3 +44,24 @@
  .container-fluid .row-fluid .span10 .container-fluid .dom-heading.dom-heading-2 {
    font-size: 23px;
  }
+ 
+ .bill-container {
+ 	display: none;
+ }
+ 
+ .insertion {
+ 	color: green;
+ }
+ 
+ .deletion {
+ 	color: red;
+ 	text-decoration: line-through;
+ }
+ 
+ .Preamble {
+ 	display: block;
+ }
+
+ .Num {
+ 	display: block;
+ }
