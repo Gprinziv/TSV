@@ -71,7 +71,7 @@ There's not right or wrong way to do this, so I'll just explain my workflow:
             
             ... now new speaker starts saying stuff, add attribute to indicate speaker changes...
             
-            <SYNC Start="1102470" author_last="Schmoe" author_first="Joe">
+            <SYNC Start="1102470" speaker_last="Schmoe" speaker_first="Joe">
                 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 83%]</P>
                 <P Class="ENUSCC">
                 <choice>
