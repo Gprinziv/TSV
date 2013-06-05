@@ -95,3 +95,50 @@ Important Notes
      * Bradley: 00:00:00 - 1:08:18
      * Giovanni: 1:08:18 - 2:07:00 (this begins at line 4505)
  * MAVIS adds underscores into the transcript.  These should all be removed.
+
+
+Annotate Script
+---------------
+
+ * This script is NOT a full-feature, robust, error-tolerant program.
+ * It takes in a path to your xml transcript file, and steps through each utterance, prompting you for the corrections.
+ * I found that it was quicker than copy pasting all the tags in each time, along with the corrected text.
+ * Foaad wants a couple additional attributes in every utterance:
+  	* confidence - On a scale from 1 to 5 (5 being the most confident) how confident that this speaker is accurate.  This will most likely be used more when we have an AI system performing this.
+  	* continuous - 1 if the utterance is by the same speaker as the last utterance.  0 otherwise.
+ * The main method takes 1 required argument and 2 option requirements:
+	
+		# path = path to transcript file
+		# skip = number of <SYNC> elements to skip (useful for starting at specific locations)
+		# verbose = set to True when you want to be prompted for EVERY <SYNC> tag, even if it already has been corrected
+		def annotate(path, skip=0, verbose=False):
+
+ * Sample run (must be run within python interpreter):
+ 
+		import annotate
+		annotate.annotate("transcript_corrections.xml")
+		SYNC 751
+		--------------------
+
+		Original: to believe that there is that there are no existing laws
+		Corrections: <type correct utterance here>
+		Speaker Last Name? Zeller
+		Speaker First Name? Bradley
+		Confidence (1-5)? 5
+		Same speaker as last utterance (0-1)? 0
+		new attrs: 
+		{'conf': '5', 'Start': '4180619', 'cont': '0', 'speaker_first': 'Bradley', 'speaker_last': 'Zeller'}
+
+		--------------------
+
+
+		SYNC 752
+		--------------------
+
+		Original: that prevents I dismissal of teachers who you know,
+		Corrections: 
+	
+ * Notes
+  	* You can't go backwards, so if you make a mistake, write down the sync number, and go back later to manually fix.
+  	* To quit at any time, be sure to enter cntl-d (EOF).  This will write all your changes to disk and quit.
+  	 	* Because the script writes to a NEW file, when you run the script again, you will need to copy over all the changes from the new file to the old file.
