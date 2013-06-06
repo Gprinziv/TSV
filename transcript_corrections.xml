@@ -73,15 +73,15 @@
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 61%]</P>
 <P Class="ENUSCC">Morae.</P>
 </SYNC>
-<SYNC Start="963350">
+<SYNC Start="963350" conf="" cont="1" speaker_first="" speaker_last="">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 96%]</P>
 <P Class="ENUSCC">Thank you.</P>
 </SYNC>
-<SYNC Start="1039410">
+<SYNC Start="1039410" conf="5" cont="0" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 93%]</P>
 <P Class="ENUSCC">Okay, I'm going to call this </P>
 </SYNC>
-<SYNC Start="1040830">
+<SYNC Start="1040830" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 89%]</P>
 <P Class="ENUSCC">meeting to order
 <choice>
@@ -90,7 +90,7 @@
 </choice>
 right off the bat for starting a little </P>
 </SYNC>
-<SYNC Start="1045370">
+<SYNC Start="1045370" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 95%]</P>
 <P Class="ENUSCC">later today
 <choice>
@@ -103,23 +103,23 @@ been a lot going on in the building.
 	<corr type="punct, grammar"> We</corr>
 </choice>have twenty-one </P>
 </SYNC>
-<SYNC Start="1050740">
+<SYNC Start="1050740" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 91%]</P>
 <P Class="ENUSCC">bills on file today and five of those are on
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr type="punc_add, phrase_change">.  The</corr>
 </choice>consent</P>
 </SYNC>
-<SYNC Start="1054920">
+<SYNC Start="1054920" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 59%]</P>
 <P Class="ENUSCC">bills
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>are file item</corr>
 </choice>number-one </P>
 </SYNC>
-<SYNC Start="1058130">
+<SYNC Start="1058130" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 86%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -136,7 +136,7 @@ item number five
 	<corr type="phrase_change, punct">, SB-1070, </corr>
 </choice></P>
 </SYNC>
-<SYNC Start="1063340">
+<SYNC Start="1063340" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 82%]</P>
 <P Class="ENUSCC">by
 <choice>
@@ -145,7 +145,7 @@ item number five
 </choice>
 item number six</P>
 </SYNC>
-<SYNC Start="1067890">
+<SYNC Start="1067890" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 88%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -157,7 +157,7 @@ item number six</P>
 	<corr type="grammar">Senator Price</corr>
 </choice>.</P>
 </SYNC>
-<SYNC Start="1070930">
+<SYNC Start="1070930" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 90%]</P>
 <P Class="ENUSCC">File item eleven 
 <choice>
@@ -166,7 +166,7 @@ item number six</P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1073730">
+<SYNC Start="1073730" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 93%]</P>
 <P Class="ENUSCC">by 
 <choice>
@@ -175,7 +175,7 @@ item number six</P>
 </choice>
 file item seventeen fourteen </P>
 </SYNC>
-<SYNC Start="1077800">
+<SYNC Start="1077800" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 74%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -188,20 +188,20 @@ by
 	<corr type="grammar, punct, phrase_change">Senator Nagretti Macleod.  For</corr>
 </choice></P>
 </SYNC>
-<SYNC Start="1081030" conf="5" cont="1" speaker_first="Bradley" speaker_last="Zeller">
+<SYNC Start="1081030" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 85%]</P>
 <P Class="ENUSCC">today's hearing we will need to impose some </P>
 </SYNC>
-<SYNC Start="1086780">
+<SYNC Start="1086780" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 86%]</P>
 <P Class="ENUSCC">time limit on testimony
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr type="grammar, punct">.  We're</corr>
 </choice>
 going to I'm going to sort of play </P>
 </SYNC>
-<SYNC Start="1092660">
+<SYNC Start="1092660" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 93%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -210,16 +210,16 @@ going to I'm going to sort of play </P>
 </choice>
 and see how it goes for I </P>
 </SYNC>
-<SYNC Start="1097060">
+<SYNC Start="1097060" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 95%]</P>
 <P Class="ENUSCC">am going to allow a little bit more time for</P>
 </SYNC>
-<SYNC Start="1102470">
+<SYNC Start="1102470" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 83%]</P>
 <P Class="ENUSCC">
 <choice>
 	<sic>mister</sic>
-	<corr type="phrase_change">Mr. Pedia's</corr>
+	<corr type="phrase_change">Mr. Padilla's</corr>
 </choice>
 bill which is
 <choice>
@@ -228,7 +228,7 @@ bill which is
 </choice>
 and we will </P>
 </SYNC>
-<SYNC Start="1106250">
+<SYNC Start="1106250" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 93%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -237,21 +237,21 @@ and we will </P>
 </choice>
 ten minutes for each side in terms of
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>testimony and</corr>
 </choice></P>
 </SYNC>
-<SYNC Start="1114390">
+<SYNC Start="1114390" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 94%]</P>
 <P Class="ENUSCC">
 I believe that we have a quorum so if the secretary could call the
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>roll</corr>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1121420">
+<SYNC Start="1121420" conf="5" cont="0" speaker_first="-" speaker_last="Secretary">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 56%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -260,7 +260,7 @@ I believe that we have a quorum so if the secretary could call the
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1124350">
+<SYNC Start="1124350" conf="5" cont="1" speaker_first="-" speaker_last="Secretary">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 78%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -269,7 +269,7 @@ I believe that we have a quorum so if the secretary could call the
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1128270">
+<SYNC Start="1128270" conf="5" cont="1" speaker_first="-" speaker_last="Secretary">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 77%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -278,7 +278,7 @@ I believe that we have a quorum so if the secretary could call the
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1129740">
+<SYNC Start="1129740" conf="5" cont="1" speaker_first="-" speaker_last="Secretary">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 56%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -287,10 +287,10 @@ I believe that we have a quorum so if the secretary could call the
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1131060">
+<SYNC Start="1131060" conf="5" cont="1" speaker_first="-" speaker_last="Secretary">
 <P Class="ENUSCC">&#160;</P>
 </SYNC>
-<SYNC Start="1135320">
+<SYNC Start="1135320" conf="5" cont="1" speaker_first="-" speaker_last="Secretary">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 61%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -299,7 +299,7 @@ I believe that we have a quorum so if the secretary could call the
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1136380">
+<SYNC Start="1136380" conf="5" cont="1" speaker_first="-" speaker_last="Secretary">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 88%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -308,7 +308,7 @@ I believe that we have a quorum so if the secretary could call the
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1139460">
+<SYNC Start="1139460" conf="5" cont="1" speaker_first="-" speaker_last="Secretary">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 86%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -317,7 +317,7 @@ I believe that we have a quorum so if the secretary could call the
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1144470">
+<SYNC Start="1144470" conf="5" cont="0" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 94%]</P>
 <P Class="ENUSCC">Thank you so we will 
 <choice>
@@ -326,16 +326,16 @@ I believe that we have a quorum so if the secretary could call the
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1146840">
+<SYNC Start="1146840" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 69%]</P>
 <P Class="ENUSCC">excuse me
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>,</corr>
 </choice>
  is first </P>
 </SYNC>
-<SYNC Start="1150110">
+<SYNC Start="1150110" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 86%]</P>
 <P Class="ENUSCC">in 
 <choice>
@@ -349,7 +349,7 @@ I believe that we have a quorum so if the secretary could call the
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1153970">
+<SYNC Start="1153970" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 85%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -358,7 +358,7 @@ I believe that we have a quorum so if the secretary could call the
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1156110">
+<SYNC Start="1156110" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 81%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -372,7 +372,7 @@ us so, we will begin with
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1162210">
+<SYNC Start="1162210" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 57%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -381,7 +381,7 @@ us so, we will begin with
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1165770">
+<SYNC Start="1165770" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 69%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -394,7 +394,7 @@ us so, we will begin with
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1171380">
+<SYNC Start="1171380" conf="5" cont="0" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 88%]</P>
 <P Class="ENUSCC">a lot worse
 <choice>
@@ -408,7 +408,7 @@ of the committee
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1177290">
+<SYNC Start="1177290" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 82%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -417,7 +417,7 @@ of the committee
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1179960">
+<SYNC Start="1179960" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 90%]</P>
 <P Class="ENUSCC">both to this
 <choice>
@@ -431,11 +431,11 @@ as well as to
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1185310">
+<SYNC Start="1185310" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 89%]</P>
 <P Class="ENUSCC">
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>They both</corr>
 </choice>
 deal with
@@ -450,11 +450,11 @@ the past year
 </choice>
 I personally have held </P>
 </SYNC>
-<SYNC Start="1190790">
+<SYNC Start="1190790" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 84%]</P>
 <P Class="ENUSCC">three informational hearings on the topic of
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>English Learners</corr>
 </choice>
 in
@@ -463,11 +463,11 @@ in
 	<corr>California</corr>
 </choice> and </P>
 </SYNC>
-<SYNC Start="1194900">
+<SYNC Start="1194900" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 84%]</P>
 <P Class="ENUSCC">
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>how well</corr>
 </choice>
 we are or how well we are not educating them
@@ -477,11 +477,11 @@ we are or how well we are not educating them
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1199180">
+<SYNC Start="1199180" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 91%]</P>
 <P Class="ENUSCC">
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>The hearings</corr>
 </choice>
 took place in 
@@ -491,11 +491,11 @@ took place in
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1203510">
+<SYNC Start="1203510" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 89%]</P>
 <P Class="ENUSCC">
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>So we covered</corr>
 </choice>
 the state geographically.
@@ -505,7 +505,7 @@ the state geographically.
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1206550">
+<SYNC Start="1206550" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 72%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -513,7 +513,7 @@ the state geographically.
 	<corr>sought and gained</corr>
 </choice>approval in the senate to create </P>
 </SYNC>
-<SYNC Start="1209550">
+<SYNC Start="1209550" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 98%]</P>
 <P Class="ENUSCC">a select committee on 
 <choice>
@@ -522,19 +522,19 @@ the state geographically.
 </choice>
 to focus on </P>
 </SYNC>
-<SYNC Start="1212990">
+<SYNC Start="1212990" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 98%]</P>
 <P Class="ENUSCC">this specific policy area and to share with you just a couple of </P>
 </SYNC>
-<SYNC Start="1218710">
+<SYNC Start="1218710" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 89%]</P>
 <P Class="ENUSCC">the key findings let me start with this
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>:</corr>
 </choice>nearly one in </P>
 </SYNC>
-<SYNC Start="1222430">
+<SYNC Start="1222430" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 94%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -546,7 +546,7 @@ to focus on </P>
 	<corr>California public schools</corr>
 </choice></P>
 </SYNC>
-<SYNC Start="1226710">
+<SYNC Start="1226710" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 97%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -555,11 +555,11 @@ to focus on </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1230020">
+<SYNC Start="1230020" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 100%]</P>
 <P Class="ENUSCC">About twenty five percent.</P>
 </SYNC>
-<SYNC Start="1232360">
+<SYNC Start="1232360" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 85%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -568,7 +568,7 @@ to focus on </P>
 </choice>
 students so regardless of 
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>the</corr>
 </choice>
 indicator
@@ -577,11 +577,11 @@ indicator
 	<corr>whether you're</corr>
 </choice>looking at </P>
 </SYNC>
-<SYNC Start="1236730">
+<SYNC Start="1236730" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 93%]</P>
 <P Class="ENUSCC">api scores or graduation rate versus </P>
 </SYNC>
-<SYNC Start="1240120">
+<SYNC Start="1240120" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 77%]</P>
 <P Class="ENUSCC">drop out rate
 <choice>
@@ -590,14 +590,14 @@ indicator
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1242860">
+<SYNC Start="1242860" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC">&#160;</P>
 </SYNC>
-<SYNC Start="1244010">
+<SYNC Start="1244010" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 86%]</P>
 <P Class="ENUSCC">I can assure you this
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>:</corr>
 </choice>
  we will not move the
@@ -607,7 +607,7 @@ indicator
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1247980">
+<SYNC Start="1247980" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 91%]</P>
 <P Class="ENUSCC">academic success until we do better
 <choice>
@@ -616,7 +616,7 @@ indicator
 </choice>
 .</P>
 </SYNC>
-<SYNC Start="1252450">
+<SYNC Start="1252450" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 81%]</P>
 <P Class="ENUSCC">Thirty six years ago this
 <choice>
@@ -625,7 +625,7 @@ indicator
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1257640">
+<SYNC Start="1257640" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 91%]</P>
 <P Class="ENUSCC">education of 
 <choice>
@@ -638,7 +638,7 @@ indicator
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1262380">
+<SYNC Start="1262380" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 99%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -647,16 +647,16 @@ indicator
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1267140">
+<SYNC Start="1267140" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 90%]</P>
 <P Class="ENUSCC">initiatives trying to tackle the same question
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>,</corr>
 </choice>
  most recently with proposition </P>
 </SYNC>
-<SYNC Start="1272070">
+<SYNC Start="1272070" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 95%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -665,7 +665,7 @@ indicator
 </choice>
 back in the mid-nineties.</P>
 </SYNC>
-<SYNC Start="1277000">
+<SYNC Start="1277000" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 86%]</P>
 <P Class="ENUSCC">Today 
 <choice>
@@ -679,11 +679,11 @@ continues to come up short in my opinion
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1281220">
+<SYNC Start="1281220" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 83%]</P>
 <P Class="ENUSCC">year
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>, </corr>
 </choice>
  only approximately ten percent of 
@@ -693,7 +693,7 @@ continues to come up short in my opinion
 </choice>
 students are deemed </P>
 </SYNC>
-<SYNC Start="1285230">
+<SYNC Start="1285230" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 97%]</P>
 <P Class="ENUSCC">to 
 <choice>
@@ -702,7 +702,7 @@ students are deemed </P>
 </choice>
 year only about fifty six </P>
 </SYNC>
-<SYNC Start="1289880">
+<SYNC Start="1289880" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 95%]</P>
 <P Class="ENUSCC">percent of 
 <choice>
@@ -711,16 +711,16 @@ year only about fifty six </P>
 </choice>
  graduate from high school
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>, </corr>
 </choice>
  the lowest of any student demographic
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>.</corr>
 </choice></P>
 </SYNC>
-<SYNC Start="1294760">
+<SYNC Start="1294760" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 92%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -739,7 +739,7 @@ I've introduced
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1299040">
+<SYNC Start="1299040" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 92%]</P>
 <P Class="ENUSCC">bills
 <choice>
@@ -753,7 +753,7 @@ me begin by focusing on
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1303450">
+<SYNC Start="1303450" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 64%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -762,7 +762,7 @@ me begin by focusing on
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1306530">
+<SYNC Start="1306530" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 96%]</P>
 <P Class="ENUSCC">parents is important for a creating success for the education of 
 <choice>
@@ -771,7 +771,7 @@ me begin by focusing on
 </choice>
  </P>
 </SYNC>
-<SYNC Start="1311360">
+<SYNC Start="1311360" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 88%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -780,7 +780,7 @@ me begin by focusing on
 </choice>
 I believe parents and community should be a have a better understanding of the </P>
 </SYNC>
-<SYNC Start="1316110">
+<SYNC Start="1316110" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 97%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -789,11 +789,11 @@ I believe parents and community should be a have a better understanding of the <
 </choice>
 decisions and the quality of programs in our schools.</P>
 </SYNC>
-<SYNC Start="1320700">
+<SYNC Start="1320700" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 91%]</P>
 <P Class="ENUSCC">Most of us know and </P>
 </SYNC>
-<SYNC Start="1321890">
+<SYNC Start="1321890" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 86%]</P>
 <P Class="ENUSCC">agree that when 
 <choice>
@@ -802,10 +802,10 @@ decisions and the quality of programs in our schools.</P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1324700">
+<SYNC Start="1324700" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC">&#160;</P>
 </SYNC>
-<SYNC Start="1325900">
+<SYNC Start="1325900" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 95%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -814,25 +814,25 @@ decisions and the quality of programs in our schools.</P>
 </choice>
  can be more active in holding their schools and districts accountable and ensure success </P>
 </SYNC>
-<SYNC Start="1330350">
+<SYNC Start="1330350" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 91%]</P>
 <P Class="ENUSCC">
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>for their</corr>
 </choice>
 children.</P>
 </SYNC>
-<SYNC Start="1331920">
+<SYNC Start="1331920" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 98%]</P>
 <P Class="ENUSCC">Under current law
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>, </corr>
 </choice>
  districts do not report school level funding figures </P>
 </SYNC>
-<SYNC Start="1336600">
+<SYNC Start="1336600" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 87%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -840,16 +840,16 @@ children.</P>
 	<corr>or</corr>
 </choice>budget figures for how they spend money to improve 
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>English Learner</corr>
 </choice>
 instruction.</P>
 </SYNC>
-<SYNC Start="1342070">
+<SYNC Start="1342070" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 94%]</P>
 <P Class="ENUSCC">Instead they use district </P>
 </SYNC>
-<SYNC Start="1343250">
+<SYNC Start="1343250" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 78%]</P>
 <P Class="ENUSCC">averages
 <choice>
@@ -858,16 +858,16 @@ instruction.</P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1348070">
+<SYNC Start="1348070" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 92%]</P>
 <P Class="ENUSCC">
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>And even</corr>
 </choice>
 when they do
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>,</corr>
 </choice>
 they only put numbers up in broad categories
@@ -877,11 +877,11 @@ they only put numbers up in broad categories
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1351790">
+<SYNC Start="1351790" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 90%]</P>
 <P Class="ENUSCC">
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>without</corr>
 </choice>
 this access to specific school level expenditures  
@@ -891,7 +891,7 @@ this access to specific school level expenditures
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1356790">
+<SYNC Start="1356790" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 95%]</P>
 <P Class="ENUSCC">communities at a disadvantage
 <choice>
@@ -900,7 +900,7 @@ this access to specific school level expenditures
 </choice>
 been several recent reports </P>
 </SYNC>
-<SYNC Start="1361370">
+<SYNC Start="1361370" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 83%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -909,7 +909,7 @@ been several recent reports </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1365710">
+<SYNC Start="1365710" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 89%]</P>
 <P Class="ENUSCC">_report co-authored by our current
 <choice>
@@ -917,7 +917,7 @@ been several recent reports </P>
 	<corr>State Board of Education President, Michael Kurst, </corr>
 </choice> </P>
 </SYNC>
-<SYNC Start="1369950">
+<SYNC Start="1369950" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 79%]</P>
 <P Class="ENUSCC">as well as our current
 <choice>
@@ -925,7 +925,7 @@ been several recent reports </P>
 	<corr>California Supreme Court Justice, Goodwin Leu.</corr>
 </choice> </P>
 </SYNC>
-<SYNC Start="1374510">
+<SYNC Start="1374510" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 95%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -934,16 +934,16 @@ been several recent reports </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1378870">
+<SYNC Start="1378870" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 95%]</P>
 <P Class="ENUSCC">should be simple
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>, </corr>
 </choice>
 transparent and easily understood by the </P>
 </SYNC>
-<SYNC Start="1382550">
+<SYNC Start="1382550" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 90%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -957,7 +957,7 @@ transparent and easily understood by the </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1386830">
+<SYNC Start="1386830" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 77%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -966,7 +966,7 @@ transparent and easily understood by the </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1390780">
+<SYNC Start="1390780" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 86%]</P>
 <P Class="ENUSCC">Another important
 <choice>
@@ -975,7 +975,7 @@ transparent and easily understood by the </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1393640">
+<SYNC Start="1393640" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 87%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -984,7 +984,7 @@ transparent and easily understood by the </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1398620">
+<SYNC Start="1398620" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 93%]</P>
 <P Class="ENUSCC">complying with state law
 <choice>
@@ -993,7 +993,7 @@ transparent and easily understood by the </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1403200">
+<SYNC Start="1403200" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 86%]</P>
 <P Class="ENUSCC">utilizes education practices that are based on 
 <choice>
@@ -1002,7 +1002,7 @@ transparent and easily understood by the </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1408850">
+<SYNC Start="1408850" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 91%]</P>
 <P Class="ENUSCC">However, 
 <choice>
@@ -1016,7 +1016,7 @@ for monitoring have been severely cut
 </choice>
 two </P>
 </SYNC>
-<SYNC Start="1413600">
+<SYNC Start="1413600" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 87%]</P>
 <P Class="ENUSCC">thousand 
 <choice>
@@ -1025,7 +1025,7 @@ two </P>
 </choice>
 superintendent of public instruction announced that </P>
 </SYNC>
-<SYNC Start="1416910">
+<SYNC Start="1416910" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 94%]</P>
 <P Class="ENUSCC">the immediate suspension of
 <choice>
@@ -1034,7 +1034,7 @@ superintendent of public instruction announced that </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1419900">
+<SYNC Start="1419900" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 88%]</P>
 <P Class="ENUSCC">monitoring visits by 
 <choice>
@@ -1043,11 +1043,11 @@ superintendent of public instruction announced that </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1424750">
+<SYNC Start="1424750" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 85%]</P>
 <P Class="ENUSCC">The suspension was </P>
 </SYNC>
-<SYNC Start="1425570">
+<SYNC Start="1425570" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 83%]</P>
 <P Class="ENUSCC">announced in the context of reducing travel budgets
 <choice>
@@ -1056,11 +1056,11 @@ superintendent of public instruction announced that </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1430450">
+<SYNC Start="1430450" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 97%]</P>
 <P Class="ENUSCC">districts not being monitored for six or seven years.</P>
 </SYNC>
-<SYNC Start="1435120">
+<SYNC Start="1435120" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 87%]</P>
 <P Class="ENUSCC">And, just now the superintendent is trying to
 <choice>
@@ -1069,7 +1069,7 @@ superintendent of public instruction announced that </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1438990">
+<SYNC Start="1438990" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 94%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1078,7 +1078,7 @@ superintendent of public instruction announced that </P>
 </choice>
 already we're not in compliance </P>
 </SYNC>
-<SYNC Start="1443590">
+<SYNC Start="1443590" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 87%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1087,20 +1087,20 @@ already we're not in compliance </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1445750">
+<SYNC Start="1445750" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 100%]</P>
 <P Class="ENUSCC">of education code which requires monitoring every three years.</P>
 </SYNC>
-<SYNC Start="1453140">
+<SYNC Start="1453140" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 97%]</P>
 <P Class="ENUSCC">And, the monitoring
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>activity</corr>
 </choice>
 that is being reinstated </P>
 </SYNC>
-<SYNC Start="1456710">
+<SYNC Start="1456710" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 99%]</P>
 <P Class="ENUSCC">only speaks to a specific programs
 <choice>
@@ -1109,7 +1109,7 @@ that is being reinstated </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1461700">
+<SYNC Start="1461700" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 87%]</P>
 <P Class="ENUSCC">it's only specific
 <choice>
@@ -1118,7 +1118,7 @@ that is being reinstated </P>
 </choice>
  </P>
 </SYNC>
-<SYNC Start="1465800">
+<SYNC Start="1465800" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 84%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1131,7 +1131,7 @@ to multiple lawsuits in this area
 	<corr>.  One</corr>
 </choice></P>
 </SYNC>
-<SYNC Start="1469860">
+<SYNC Start="1469860" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 82%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1140,7 +1140,7 @@ to multiple lawsuits in this area
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1473370">
+<SYNC Start="1473370" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 88%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1148,7 +1148,7 @@ to multiple lawsuits in this area
 	<corr>of English Learners throughout the state and their parents.  To address these issues and</corr>
 </choice></P>
 </SYNC>
-<SYNC Start="1477980">
+<SYNC Start="1477980" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 97%]</P>
 <P Class="ENUSCC">the very
 <choice>
@@ -1157,7 +1157,7 @@ to multiple lawsuits in this area
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1480930">
+<SYNC Start="1480930" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 83%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1171,7 +1171,7 @@ would require the monitoring and review of
 </choice>
 services </P>
 </SYNC>
-<SYNC Start="1485820">
+<SYNC Start="1485820" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 83%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1180,7 +1180,7 @@ services </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1490650">
+<SYNC Start="1490650" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 100%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1188,11 +1188,11 @@ services </P>
 	<corr>easily accessible location.</corr>
 </choice>I believe these reforms are necessary to inform </P>
 </SYNC>
-<SYNC Start="1495160">
+<SYNC Start="1495160" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 94%]</P>
 <P Class="ENUSCC">schools
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>,</corr>
 </choice>
  empower parents and help us all improve the success of
@@ -1202,7 +1202,7 @@ services </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1501740">
+<SYNC Start="1501740" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 95%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1211,7 +1211,7 @@ services </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1506750">
+<SYNC Start="1506750" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 78%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1220,21 +1220,21 @@ services </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1509470">
+<SYNC Start="1509470" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 75%]</P>
 <P Class="ENUSCC">
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>and since then</corr>
 </choice>
 have established 
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>a</corr>
 </choice>
 monitoring program and have improved the </P>
 </SYNC>
-<SYNC Start="1513900">
+<SYNC Start="1513900" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 81%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1243,11 +1243,11 @@ monitoring program and have improved the </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1517660">
+<SYNC Start="1517660" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 98%]</P>
 <P Class="ENUSCC">There's a number of a amendments </P>
 </SYNC>
-<SYNC Start="1519530">
+<SYNC Start="1519530" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 75%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1256,7 +1256,7 @@ monitoring program and have improved the </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1526030">
+<SYNC Start="1526030" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 81%]</P>
 <P Class="ENUSCC">In
 <choice>
@@ -1265,19 +1265,19 @@ monitoring program and have improved the </P>
 </choice>
  </P>
 </SYNC>
-<SYNC Start="1530510">
+<SYNC Start="1530510" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 79%]</P>
 <P Class="ENUSCC">or approaches actually improve academic outcomes of english
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>Learners</corr>
 </choice></P>
 </SYNC>
-<SYNC Start="1534480">
+<SYNC Start="1534480" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 84%]</P>
 <P Class="ENUSCC">Again, I believe monitoring is important to determine that the approaches </P>
 </SYNC>
-<SYNC Start="1538360">
+<SYNC Start="1538360" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 92%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1290,16 +1290,16 @@ implementing our schools are based on sound research
 	<corr>.  The committee has</corr>
 </choice></P>
 </SYNC>
-<SYNC Start="1543170">
+<SYNC Start="1543170" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 90%]</P>
 <P Class="ENUSCC">
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>noted that there is</corr>
 </choice>
 significant implementation challenges with the monitoring </P>
 </SYNC>
-<SYNC Start="1546900">
+<SYNC Start="1546900" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 92%]</P>
 <P Class="ENUSCC">provision of the bill
 <choice>
@@ -1308,7 +1308,7 @@ significant implementation challenges with the monitoring </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1551850">
+<SYNC Start="1551850" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 89%]</P>
 <P Class="ENUSCC">agree
 <choice>
@@ -1317,7 +1317,7 @@ significant implementation challenges with the monitoring </P>
 </choice>
  share with all of you </P>
 </SYNC>
-<SYNC Start="1556530">
+<SYNC Start="1556530" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 72%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1326,7 +1326,7 @@ significant implementation challenges with the monitoring </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1560310">
+<SYNC Start="1560310" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 94%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1335,7 +1335,7 @@ significant implementation challenges with the monitoring </P>
 </choice>
 with policy committees in both houses
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>,</corr>
 </choice>
  with other stakeholders and 
@@ -1345,7 +1345,7 @@ with policy committees in both houses
 </choice>
 to </P>
 </SYNC>
-<SYNC Start="1564790">
+<SYNC Start="1564790" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 74%]</P>
 <P Class="ENUSCC">prepare the
 <choice>
@@ -1354,7 +1354,7 @@ to </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1569060">
+<SYNC Start="1569060" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 87%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1363,7 +1363,7 @@ to </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1574770">
+<SYNC Start="1574770" conf="5" cont="1" speaker_first="" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 83%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1372,7 +1372,7 @@ to </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1577840">
+<SYNC Start="1577840" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 79%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1380,7 +1380,7 @@ to </P>
 	<corr>moved and seconded by Dr. Haldeman and Mr. Ambiano.</corr>
 </choice></P>
 </SYNC>
-<SYNC Start="1581790">
+<SYNC Start="1581790" conf="5" cont="1" speaker_first="Martha" speaker_last="Saragosa-Diaz">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 85%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1389,12 +1389,12 @@ to </P>
 </choice>
  and members of the committee
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>, </corr>
 </choice>
  my name is </P>
 </SYNC>
-<SYNC Start="1585840">
+<SYNC Start="1585840" conf="5" cont="1" speaker_first="Martha" speaker_last="Saragosa-Diaz">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 87%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1406,7 +1406,7 @@ to </P>
 	<corr>California Association for Bilingual Education</corr>
 </choice></P>
 </SYNC>
-<SYNC Start="1590260">
+<SYNC Start="1590260" conf="5" cont="1" speaker_first="Martha" speaker_last="Saragosa-Diaz">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 95%]</P>
 <P Class="ENUSCC">in 
 <choice>
@@ -1420,7 +1420,7 @@ to </P>
 </choice>
 certainly </P>
 </SYNC>
-<SYNC Start="1595410">
+<SYNC Start="1595410" conf="5" cont="1" speaker_first="Martha" speaker_last="Saragosa-Diaz">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 93%]</P>
 <P Class="ENUSCC">believe that
 <choice>
@@ -1429,7 +1429,7 @@ certainly </P>
 </choice>
  transparency with regards </P>
 </SYNC>
-<SYNC Start="1598080">
+<SYNC Start="1598080" conf="5" cont="1" speaker_first="Martha" speaker_last="Saragosa-Diaz">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 97%]</P>
 <P Class="ENUSCC">to 
 <choice>
@@ -1438,7 +1438,7 @@ certainly </P>
 </choice>
  education information should be available to the public especially with </P>
 </SYNC>
-<SYNC Start="1603270">
+<SYNC Start="1603270" conf="5" cont="1" speaker_first="Martha" speaker_last="Saragosa-Diaz">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 76%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1451,7 +1451,7 @@ to the economic impact they
 	<corr>fund since currently</corr>
 </choice> </P>
 </SYNC>
-<SYNC Start="1607520">
+<SYNC Start="1607520" conf="5" cont="1" speaker_first="Martha" speaker_last="Saragosa-Diaz">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 92%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1460,12 +1460,12 @@ to the economic impact they
 </choice>
  funding is not as transparent as 
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>it</corr>
 </choice>
 should be and it's for those reasons that we support </P>
 </SYNC>
-<SYNC Start="1612730">
+<SYNC Start="1612730" conf="5" cont="1" speaker_first="Martha" speaker_last="Saragosa-Diaz">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 79%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1474,7 +1474,7 @@ should be and it's for those reasons that we support </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1617190">
+<SYNC Start="1617190" conf="5" cont="0" speaker_first="Melissa" speaker_last="San-Miguel">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 94%]</P>
 <P Class="ENUSCC">Good afternoon 
 <choice>
@@ -1483,7 +1483,7 @@ should be and it's for those reasons that we support </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1621260">
+<SYNC Start="1621260" conf="5" cont="1" speaker_first="Melissa" speaker_last="San-Miguel">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 87%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1491,7 +1491,7 @@ should be and it's for those reasons that we support </P>
 	<corr>we're an advocacy group focused on closing the opportunity achievement gaps for low-income students and students of</corr>
 </choice></P>
 </SYNC>
-<SYNC Start="1625080">
+<SYNC Start="1625080" conf="5" cont="1" speaker_first="Melissa" speaker_last="San-Miguel">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 71%]</P>
 <P Class="ENUSCC">
 color
@@ -1501,11 +1501,11 @@ color
 </choice>
  believe transparencies important issue </P>
 </SYNC>
-<SYNC Start="1629530">
+<SYNC Start="1629530" conf="5" cont="1" speaker_first="Melissa" speaker_last="San-Miguel">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 95%]</P>
 <P Class="ENUSCC">parents and the general community what
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>is</corr>
 </choice>
  possible for students 
@@ -1515,11 +1515,11 @@ color
 </choice>
 resources are available to ensure </P>
 </SYNC>
-<SYNC Start="1634770">
+<SYNC Start="1634770" conf="5" cont="1" speaker_first="Melissa" speaker_last="San-Miguel">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 90%]</P>
 <P Class="ENUSCC">
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>their</corr>
 </choice>
 academic success
@@ -1529,7 +1529,7 @@ academic success
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1637690">
+<SYNC Start="1637690" conf="5" cont="1" speaker_first="Melissa" speaker_last="San-Miguel">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 79%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1538,7 +1538,7 @@ academic success
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1640130">
+<SYNC Start="1640130" conf="5" cont="1" speaker_first="Melissa" speaker_last="San-Miguel">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 87%]</P>
 <P Class="ENUSCC">outcome empowering parents to have a word in their child success
 <choice>
@@ -1546,7 +1546,7 @@ academic success
 	<corr>.  Thank you.  Thank you.</corr>
 </choice></P>
 </SYNC>
-<SYNC Start="1648230">
+<SYNC Start="1648230" conf="5" cont="0" speaker_first="Felcia" speaker_last="Jones">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 89%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1555,7 +1555,7 @@ academic success
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1652030">
+<SYNC Start="1652030" conf="5" cont="1" speaker_first="Felcia" speaker_last="Jones">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 87%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1564,11 +1564,11 @@ academic success
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1655530">
+<SYNC Start="1655530" conf="5" cont="1" speaker_first="Felcia" speaker_last="Jones">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 84%]</P>
 <P Class="ENUSCC">
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>And we are also</corr>
 </choice>
 in support of this
@@ -1578,15 +1578,15 @@ in support of this
 </choice>
  because it provides </P>
 </SYNC>
-<SYNC Start="1659560">
+<SYNC Start="1659560" conf="5" cont="1" speaker_first="Felcia" speaker_last="Jones">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 99%]</P>
 <P Class="ENUSCC">the kind of accountability and monitoring that we know strengthens </P>
 </SYNC>
-<SYNC Start="1663990">
+<SYNC Start="1663990" conf="5" cont="1" speaker_first="Felcia" speaker_last="Jones">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 92%]</P>
 <P Class="ENUSCC">_parent governance and we certainly want parents to be able to have access to information as </P>
 </SYNC>
-<SYNC Start="1669670">
+<SYNC Start="1669670" conf="5" cont="1" speaker_first="Felcia" speaker_last="Jones">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 69%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1595,19 +1595,19 @@ in support of this
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1673390">
+<SYNC Start="1673390" conf="5" cont="1" speaker_first="Felcia" speaker_last="Jones">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 93%]</P>
 <P Class="ENUSCC">lack advisory committee so that they are informed first and foremost and </P>
 </SYNC>
-<SYNC Start="1678220">
+<SYNC Start="1678220" conf="5" cont="1" speaker_first="Felcia" speaker_last="Jones">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 95%]</P>
 <P Class="ENUSCC">then they understand how what resources are really </P>
 </SYNC>
-<SYNC Start="1682820">
+<SYNC Start="1682820" conf="5" cont="1" speaker_first="Felcia" speaker_last="Jones">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 76%]</P>
 <P Class="ENUSCC">
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>owed</corr>
 </choice>
 to them out to help improve their students
@@ -1616,7 +1616,7 @@ to them out to help improve their students
 	<corr>their students</corr>
 </choice> </P>
 </SYNC>
-<SYNC Start="1688370">
+<SYNC Start="1688370" conf="5" cont="1" speaker_first="Felcia" speaker_last="Jones">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 94%]</P>
 <P Class="ENUSCC">academic performance 
 <choice>
@@ -1625,7 +1625,7 @@ to them out to help improve their students
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1693480">
+<SYNC Start="1693480" conf="5" cont="1" speaker_first="Felcia" speaker_last="Jones">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 93%]</P>
 <P Class="ENUSCC">it is offers a through a good step in the right direction
 <choice>
@@ -1634,7 +1634,7 @@ to them out to help improve their students
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1699270">
+<SYNC Start="1699270" conf="5" cont="0" speaker_first="Sherry" speaker_last="Griffith">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 80%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1643,7 +1643,7 @@ to them out to help improve their students
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1704210">
+<SYNC Start="1704210" conf="5" cont="1" speaker_first="Sherry" speaker_last="Griffith">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 91%]</P>
 <P Class="ENUSCC">are in support
 <choice>
@@ -1652,7 +1652,7 @@ to them out to help improve their students
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1709420">
+<SYNC Start="1709420" conf="5" cont="0" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 100%]</P>
 <P Class="ENUSCC">Any witnesses
 <choice>
@@ -1661,7 +1661,7 @@ to them out to help improve their students
 </choice>
   opposition.</P>
 </SYNC>
-<SYNC Start="1713330">
+<SYNC Start="1713330" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 98%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1670,7 +1670,7 @@ to them out to help improve their students
 </choice>
  </P>
 </SYNC>
-<SYNC Start="1716430">
+<SYNC Start="1716430" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 92%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1683,7 +1683,7 @@ comments or questions
 	<corr>?</corr>
 </choice></P>
 </SYNC>
-<SYNC Start="1720670">
+<SYNC Start="1720670" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 76%]</P>
 <P Class="ENUSCC">Doctor 
 <choice>
@@ -1692,11 +1692,11 @@ comments or questions
 </choice>
 .</P>
 </SYNC>
-<SYNC Start="1722710">
+<SYNC Start="1722710" conf="5" cont="0" speaker_first="-" speaker_last="Halderman">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 94%]</P>
 <P Class="ENUSCC">Thank you senator
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>, </corr>
 </choice>
  I just wanted to complement both the content of your bill
@@ -1706,7 +1706,7 @@ comments or questions
 </choice>
 the process </P>
 </SYNC>
-<SYNC Start="1726940">
+<SYNC Start="1726940" conf="5" cont="1" speaker_first="-" speaker_last="Halderman">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 95%]</P>
 <P Class="ENUSCC">it went through
 <choice>
@@ -1715,7 +1715,7 @@ the process </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1728350">
+<SYNC Start="1728350" conf="5" cont="1" speaker_first="-" speaker_last="Halderman">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 93%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1724,7 +1724,7 @@ the process </P>
 </choice>
 it did go through policy committees on both sides and it had a thorough </P>
 </SYNC>
-<SYNC Start="1733070">
+<SYNC Start="1733070" conf="5" cont="1" speaker_first="-" speaker_last="Halderman">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 94%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1733,11 +1733,11 @@ it did go through policy committees on both sides and it had a thorough </P>
 </choice>
 I really appreciate your respecting the process and I'm glad to 
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>support this.  Thank you very much.</corr>
 </choice></P>
 </SYNC>
-<SYNC Start="1740720">
+<SYNC Start="1740720" conf="5" cont="0" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 67%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1746,7 +1746,7 @@ I really appreciate your respecting the process and I'm glad to
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1745000">
+<SYNC Start="1745000" conf="5" cont="0" speaker_first="-" speaker_last="Norby">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 89%]</P>
 <P Class="ENUSCC">This applies to both
 <choice>
@@ -1755,11 +1755,11 @@ I really appreciate your respecting the process and I'm glad to
 </choice>
 .</P>
 </SYNC>
-<SYNC Start="1749590">
+<SYNC Start="1749590" conf="5" cont="1" speaker_first="-" speaker_last="Norby">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 85%]</P>
 <P Class="ENUSCC">
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>ELL</corr>
 </choice>
 is a program which really
@@ -1769,21 +1769,21 @@ is a program which really
 </choice>
 to have much stronger focus on the </P>
 </SYNC>
-<SYNC Start="1753060">
+<SYNC Start="1753060" conf="5" cont="1" speaker_first="-" speaker_last="Norby">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 93%]</P>
 <P Class="ENUSCC">kids
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>that</corr>
 </choice>
 really need it
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>.</corr>
 </choice>
 I think far too many kids are in 
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>it</corr>
 </choice>
 that don't need it and
@@ -1792,26 +1792,26 @@ that don't need it and
 	<corr />
 </choice> </P>
 </SYNC>
-<SYNC Start="1757940">
+<SYNC Start="1757940" conf="5" cont="1" speaker_first="-" speaker_last="Norby">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 89%]</P>
 <P Class="ENUSCC">it really isn't serving them well
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>.  In</corr>
 </choice>
 my own family I 
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>had</corr>
 </choice>
 one daughter 
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>that</corr>
 </choice>
 was classified </P>
 </SYNC>
-<SYNC Start="1763040">
+<SYNC Start="1763040" conf="5" cont="1" speaker_first="-" speaker_last="Norby">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 95%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1825,7 +1825,7 @@ because her mother put down on the form she
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1767870">
+<SYNC Start="1767870" conf="5" cont="1" speaker_first="-" speaker_last="Norby">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 84%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1833,7 +1833,7 @@ because her mother put down on the form she
 	<corr>and English they stuck her in ELL.  For the next two kids they said look, we don't want to be in ELL because it's wasting my</corr>
 </choice></P>
 </SYNC>
-<SYNC Start="1772680">
+<SYNC Start="1772680" conf="5" cont="1" speaker_first="-" speaker_last="Norby">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 88%]</P>
 <P Class="ENUSCC">sister's time
 <choice>
@@ -1842,7 +1842,7 @@ because her mother put down on the form she
 </choice>
   </P>
 </SYNC>
-<SYNC Start="1776160">
+<SYNC Start="1776160" conf="5" cont="1" speaker_first="-" speaker_last="Norby">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 89%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1856,12 +1856,12 @@ parents really have
 </choice>
 and we have to focus on those kids 
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>who</corr>
 </choice>
 really </P>
 </SYNC>
-<SYNC Start="1781210">
+<SYNC Start="1781210" conf="5" cont="1" speaker_first="-" speaker_last="Norby">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 94%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1870,11 +1870,11 @@ really </P>
 </choice>
 rather than have it so broad that kids get in something that they don't
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>,</corr>
 </choice> </P>
 </SYNC>
-<SYNC Start="1786380">
+<SYNC Start="1786380" conf="5" cont="1" speaker_first="-" speaker_last="Norby">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 69%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1883,11 +1883,11 @@ rather than have it so broad that kids get in something that they don't
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1789540">
+<SYNC Start="1789540" conf="5" cont="1" speaker_first="-" speaker_last="Norby">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 85%]</P>
 <P Class="ENUSCC">
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>and</corr>
 </choice>
 we also want to take this opportunity
@@ -1896,7 +1896,7 @@ we also want to take this opportunity
 	<corr>MM Chair to</corr>
 </choice></P>
 </SYNC>
-<SYNC Start="1793580">
+<SYNC Start="1793580" conf="5" cont="1" speaker_first="-" speaker_last="Norby">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 91%]</P>
 <P Class="ENUSCC">announced
 <choice>
@@ -1910,7 +1910,7 @@ we also want to take this opportunity
 </choice>
 I'm cosponsoring this with assemblyman </P>
 </SYNC>
-<SYNC Start="1798120">
+<SYNC Start="1798120" conf="5" cont="1" speaker_first="-" speaker_last="Norby">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 86%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1924,7 +1924,7 @@ which will be in
 </choice>
 looking at re classification of </P>
 </SYNC>
-<SYNC Start="1804060">
+<SYNC Start="1804060" conf="5" cont="1" speaker_first="-" speaker_last="Norby">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 87%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1938,24 +1938,25 @@ students and what we can do to improve it and
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1808370">
+<SYNC Start="1808370" conf="5" cont="1" speaker_first="-" speaker_last="Norby">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 96%]</P>
 <P Class="ENUSCC">rather than have something 
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>that is</corr>
 </choice>
 overly broad
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>.  So</corr>
-</choice>thank you and I will support both of them </P>
+</choice>thank you and I will support both of them 
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>.</corr>
 </choice>
+</P>
 </SYNC>
-<SYNC Start="1813190">
+<SYNC Start="1813190" conf="5" cont="0" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 77%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1969,7 +1970,7 @@ I believe you have two more witnesses
 </choice>
 support and </P>
 </SYNC>
-<SYNC Start="1818520">
+<SYNC Start="1818520" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 63%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -1983,14 +1984,14 @@ just state your name and organization your
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1821730">
+<SYNC Start="1821730" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC">&#160;</P>
 </SYNC>
-<SYNC Start="1822770">
+<SYNC Start="1822770" conf="5" cont="0" speaker_first="Janette" speaker_last="Sanpetine">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 95%]</P>
 <P Class="ENUSCC">
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>Judette Sleenbaseen, legislative staff</corr>
 </choice>
 attorney on behalf of the 
@@ -2000,7 +2001,7 @@ attorney on behalf of the
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1828860">
+<SYNC Start="1828860" conf="5" cont="1" speaker_first="Tiffany" speaker_last="Mock">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 87%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2014,15 +2015,15 @@ on behalf of the
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1835980">
+<SYNC Start="1835980" conf="5" cont="0" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 74%]</P>
-<P Class="ENUSCC">Okay, </P>
+<P Class="ENUSCC"><choice><sic>Okay,</sic><corr>Chair</corr></choice></P>
 </SYNC>
-<SYNC Start="1837480">
+<SYNC Start="1837480" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 99%]</P>
 <P Class="ENUSCC">very good but, before we vote on the bill and ask you to close I just like to make </P>
 </SYNC>
-<SYNC Start="1842390">
+<SYNC Start="1842390" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 100%]</P>
 <P Class="ENUSCC">one comment and to say that I think this is a very powerful bill
 <choice>
@@ -2031,7 +2032,7 @@ on behalf of the
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1847520">
+<SYNC Start="1847520" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 95%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2040,7 +2041,7 @@ on behalf of the
 </choice>
 someone I have been working on school finance </P>
 </SYNC>
-<SYNC Start="1849760">
+<SYNC Start="1849760" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 95%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2049,12 +2050,12 @@ someone I have been working on school finance </P>
 </choice>
 now for a long-time
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>.</corr>
 </choice>
  I think the notion of </P>
 </SYNC>
-<SYNC Start="1854930">
+<SYNC Start="1854930" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 89%]</P>
 <P Class="ENUSCC">transparency 
 <choice>
@@ -2068,15 +2069,15 @@ knowing how much
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1859500">
+<SYNC Start="1859500" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 87%]</P>
 <P Class="ENUSCC">and then how that is what the decisions are and how that money is </P>
 </SYNC>
-<SYNC Start="1863510">
+<SYNC Start="1863510" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 95%]</P>
 <P Class="ENUSCC">distributed I believe very strongly that will leverage better decision-making and, </P>
 </SYNC>
-<SYNC Start="1870620">
+<SYNC Start="1870620" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 97%]</P>
 <P Class="ENUSCC">bring parents to the table as part of that 
 <choice>
@@ -2084,7 +2085,7 @@ knowing how much
 	<corr />
 </choice></P>
 </SYNC>
-<SYNC Start="1873460">
+<SYNC Start="1873460" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 89%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2093,15 +2094,15 @@ knowing how much
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1878960">
+<SYNC Start="1878960" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 91%]</P>
 <P Class="ENUSCC">in the long-run so I appreciate you</P>
 </SYNC>
-<SYNC Start="1881800">
+<SYNC Start="1881800" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 84%]</P>
 <P Class="ENUSCC">
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>bringing the</corr>
 </choice>
 bill forward and if you had any closing remarks this would be the time
@@ -2111,7 +2112,7 @@ bill forward and if you had any closing remarks this would be the time
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1886720">
+<SYNC Start="1886720" conf="5" cont="0" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 77%]</P>
 <P Class="ENUSCC">very much
 <choice>
@@ -2126,16 +2127,16 @@ bill forward and if you had any closing remarks this would be the time
 </choice>
 absolutely right
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>.</corr>
 </choice> 
 I think we need to </P>
 </SYNC>
-<SYNC Start="1892030">
+<SYNC Start="1892030" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 85%]</P>
 <P Class="ENUSCC">take
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>a</corr>
 </choice>
  look at the 
@@ -2145,35 +2146,35 @@ I think we need to </P>
 </choice>
  </P>
 </SYNC>
-<SYNC Start="1896210">
+<SYNC Start="1896210" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 89%]</P>
 <P Class="ENUSCC">
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>So</corr>
 </choice>
 beginning with initial assessment or evaluation that starts the
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>with the</corr>
 </choice>
  parents </P>
 </SYNC>
-<SYNC Start="1900850">
+<SYNC Start="1900850" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 93%]</P>
 <P Class="ENUSCC">
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>survey that</corr>
 </choice>
 you made reference to
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>, </corr>
 </choice>
  not just a placement but instruction </P>
 </SYNC>
-<SYNC Start="1905410">
+<SYNC Start="1905410" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 95%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2182,12 +2183,12 @@ you made reference to
 </choice>
  which is the subject of my next issue
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>, </corr>
 </choice>
  data collection
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>, </corr>
 </choice> etc
 <choice>
@@ -2195,7 +2196,7 @@ you made reference to
 	<corr>.  One</corr>
 </choice>of the bills that I </P>
 </SYNC>
-<SYNC Start="1911380">
+<SYNC Start="1911380" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 80%]</P>
 <P Class="ENUSCC">had 
 <choice>
@@ -2209,16 +2210,16 @@ would have called for a specific state
 </choice>
  </P>
 </SYNC>
-<SYNC Start="1915910">
+<SYNC Start="1915910" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 82%]</P>
 <P Class="ENUSCC">masterplan so we can have a comprehensive policy look 
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>.</corr>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1920030">
+<SYNC Start="1920030" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 70%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2227,7 +2228,7 @@ would have called for a specific state
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1923830">
+<SYNC Start="1923830" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 75%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2236,12 +2237,12 @@ would have called for a specific state
 </choice>
 have a select committee in the
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>senate</corr>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1928480">
+<SYNC Start="1928480" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 87%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2250,7 +2251,7 @@ have a select committee in the
 </choice>
  flesh out these issues and continue to</P>
 </SYNC>
-<SYNC Start="1934170">
+<SYNC Start="1934170" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 61%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2259,7 +2260,7 @@ have a select committee in the
 </choice>
  </P>
 </SYNC>
-<SYNC Start="1939570">
+<SYNC Start="1939570" conf="5" cont="0" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 84%]</P>
 <P Class="ENUSCC">you very much
 <choice>
@@ -2268,7 +2269,7 @@ have a select committee in the
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1944380">
+<SYNC Start="1944380" conf="5" cont="0" speaker_first="-" speaker_last="Secretary">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 52%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2277,7 +2278,7 @@ have a select committee in the
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1947320">
+<SYNC Start="1947320" conf="5" cont="1" speaker_first="-" speaker_last="Secretary">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 71%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2286,11 +2287,11 @@ have a select committee in the
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1952310">
+<SYNC Start="1952310" conf="5" cont="1" speaker_first="-" speaker_last="Secretary">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 100%]</P>
 <P Class="ENUSCC">Butler.</P>
 </SYNC>
-<SYNC Start="1957180">
+<SYNC Start="1957180" conf="5" cont="1" speaker_first="-" speaker_last="Secretary">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 100%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2299,7 +2300,7 @@ have a select committee in the
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1958310">
+<SYNC Start="1958310" conf="5" cont="1" speaker_first="-" speaker_last="Secretary">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 73%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2308,10 +2309,10 @@ have a select committee in the
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1960920">
+<SYNC Start="1960920" conf="5" cont="1" speaker_first="-" speaker_last="Secretary">
 <P Class="ENUSCC">&#160;</P>
 </SYNC>
-<SYNC Start="1963160">
+<SYNC Start="1963160" conf="5" cont="1" speaker_first="-" speaker_last="Secretary">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 80%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2320,15 +2321,15 @@ have a select committee in the
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1964560">
+<SYNC Start="1964560" conf="5" cont="1" speaker_first="-" speaker_last="Secretary">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 70%]</P>
 <P Class="ENUSCC">Williams I.
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>Butler?  Butler I. </corr>
 </choice></P>
 </SYNC>
-<SYNC Start="1973410">
+<SYNC Start="1973410" conf="5" cont="1" speaker_first="-" speaker_last="Secretary">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 87%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2336,7 +2337,7 @@ have a select committee in the
 	<corr />
 </choice></P>
 </SYNC>
-<SYNC Start="1977180">
+<SYNC Start="1977180" conf="5" cont="0" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 69%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2344,7 +2345,7 @@ have a select committee in the
 	<corr>That's seven votes for bill</corr>
 </choice> </P>
 </SYNC>
-<SYNC Start="1978940">
+<SYNC Start="1978940" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 78%]</P>
 <P Class="ENUSCC">out and we will move on then
 <choice>
@@ -2353,7 +2354,7 @@ have a select committee in the
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1984000">
+<SYNC Start="1984000" conf="5" cont="0" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 75%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2362,11 +2363,11 @@ have a select committee in the
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1988830">
+<SYNC Start="1988830" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 85%]</P>
 <P Class="ENUSCC">
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>began</corr>
 </choice>
 to discuss
@@ -2381,11 +2382,11 @@ is a process by which
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1993870">
+<SYNC Start="1993870" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 81%]</P>
 <P Class="ENUSCC">
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>and deemed</corr>
 </choice>to be
 <choice>
@@ -2393,7 +2394,7 @@ is a process by which
 	<corr>English proficient.  Currently current law</corr>
 </choice> </P>
 </SYNC>
-<SYNC Start="1998500">
+<SYNC Start="1998500" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 90%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2402,7 +2403,7 @@ is a process by which
 </choice>
 criteria
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>: </corr>
 </choice>
 the first is the 
@@ -2412,7 +2413,7 @@ the first is the
 </choice>
  </P>
 </SYNC>
-<SYNC Start="2003770">
+<SYNC Start="2003770" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 91%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2421,7 +2422,7 @@ the first is the
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2008840">
+<SYNC Start="2008840" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 96%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2435,7 +2436,7 @@ the first is the
 </choice>
   suggests that the </P>
 </SYNC>
-<SYNC Start="2013720">
+<SYNC Start="2013720" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 85%]</P>
 <P Class="ENUSCC">test
 <choice>
@@ -2444,7 +2445,7 @@ the first is the
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2018450">
+<SYNC Start="2018450" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 75%]</P>
 <P Class="ENUSCC">overtime
 <choice>
@@ -2453,7 +2454,7 @@ the first is the
 </choice>
  </P>
 </SYNC>
-<SYNC Start="2023380">
+<SYNC Start="2023380" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 86%]</P>
 <P Class="ENUSCC">by their teachers
 <choice>
@@ -2462,7 +2463,7 @@ the first is the
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2028440">
+<SYNC Start="2028440" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 65%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2471,7 +2472,7 @@ the first is the
 </choice>
  </P>
 </SYNC>
-<SYNC Start="2032430">
+<SYNC Start="2032430" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 95%]</P>
 <P Class="ENUSCC">law is
 <choice>
@@ -2485,7 +2486,7 @@ guidelines for teachers to make this very assessment
 </choice>
   </P>
 </SYNC>
-<SYNC Start="2037410">
+<SYNC Start="2037410" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 93%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2494,7 +2495,7 @@ guidelines for teachers to make this very assessment
 </choice>
 requirement that parents must be </P>
 </SYNC>
-<SYNC Start="2040170">
+<SYNC Start="2040170" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 70%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2508,11 +2509,11 @@ this criteria is vague
 </choice>
  </P>
 </SYNC>
-<SYNC Start="2044110">
+<SYNC Start="2044110" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 91%]</P>
 <P Class="ENUSCC">
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>or guidelines</corr>
 </choice>
 for
@@ -2527,7 +2528,7 @@ that consultation looks like
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2048350">
+<SYNC Start="2048350" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 83%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2536,7 +2537,7 @@ that consultation looks like
 </choice>
  </P>
 </SYNC>
-<SYNC Start="2052380">
+<SYNC Start="2052380" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 95%]</P>
 <P Class="ENUSCC">speaker skills
 <choice>
@@ -2545,7 +2546,7 @@ that consultation looks like
 </choice>
 current practice we compare the </P>
 </SYNC>
-<SYNC Start="2057040">
+<SYNC Start="2057040" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 84%]</P>
 <P Class="ENUSCC">seltz outcomes to 
 <choice>
@@ -2554,25 +2555,25 @@ current practice we compare the </P>
 </choice>
  </P>
 </SYNC>
-<SYNC Start="2061780">
+<SYNC Start="2061780" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 91%]</P>
 <P Class="ENUSCC">tests
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>, </corr>
 </choice>
  a test that was not designed for this purpose 
  <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>yet</corr>
 </choice>
 that's what we </P>
 </SYNC>
-<SYNC Start="2066620">
+<SYNC Start="2066620" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 94%]</P>
 <P Class="ENUSCC">currently do
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>.</corr>
 </choice>
  I would argue that is very difficult to hold 
@@ -2582,7 +2583,7 @@ that's what we </P>
 </choice>
  </P>
 </SYNC>
-<SYNC Start="2071860">
+<SYNC Start="2071860" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 96%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2591,15 +2592,15 @@ that's what we </P>
 </choice>
  accountable let alone improve </P>
 </SYNC>
-<SYNC Start="2074640">
+<SYNC Start="2074640" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 93%]</P>
 <P Class="ENUSCC">upon the system when school to school and district to district </P>
 </SYNC>
-<SYNC Start="2079440">
+<SYNC Start="2079440" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 86%]</P>
 <P Class="ENUSCC">
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>we're</corr>
 </choice>
 using different
@@ -2609,7 +2610,7 @@ using different
 </choice>
  </P>
 </SYNC>
-<SYNC Start="2083490">
+<SYNC Start="2083490" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 100%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2618,7 +2619,7 @@ using different
 </choice>
  </P>
 </SYNC>
-<SYNC Start="2084590">
+<SYNC Start="2084590" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 84%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2627,11 +2628,11 @@ using different
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2088560">
+<SYNC Start="2088560" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 97%]</P>
 <P Class="ENUSCC">begin to create uniformity of criteria school to school district to district throughout the </P>
 </SYNC>
-<SYNC Start="2093900">
+<SYNC Start="2093900" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 81%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2640,7 +2641,7 @@ using different
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2098320">
+<SYNC Start="2098320" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 91%]</P>
 <P Class="ENUSCC">on research
 <choice>
@@ -2649,11 +2650,11 @@ using different
 </choice>
 credibility and reliability to their application 
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>.</corr>
 </choice></P>
 </SYNC>
-<SYNC Start="2103320">
+<SYNC Start="2103320" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 86%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2662,7 +2663,7 @@ credibility and reliability to their application
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2106730">
+<SYNC Start="2106730" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 91%]</P>
 <P Class="ENUSCC">and 
 <choice>
@@ -2671,7 +2672,7 @@ credibility and reliability to their application
 </choice>
  </P>
 </SYNC>
-<SYNC Start="2112110">
+<SYNC Start="2112110" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 78%]</P>
 <P Class="ENUSCC">I want to a 
 <choice>
@@ -2680,7 +2681,7 @@ credibility and reliability to their application
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2116370">
+<SYNC Start="2116370" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 86%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2689,7 +2690,7 @@ credibility and reliability to their application
 </choice>
  </P>
 </SYNC>
-<SYNC Start="2121550">
+<SYNC Start="2121550" conf="5" cont="1" speaker_first="Alex" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 81%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2698,7 +2699,7 @@ credibility and reliability to their application
 </choice>
  </P>
 </SYNC>
-<SYNC Start="2125140" speaker_first="Martha" speaker_last="Saragosa-Diaz">
+<SYNC Start="2125140" conf="5" cont="0" speaker_first="Martha" speaker_last="Saragosa-Diaz">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 96%]</P>
 <P Class="ENUSCC">you senator
 <choice>
@@ -2707,7 +2708,7 @@ credibility and reliability to their application
 </choice>
  </P>
 </SYNC>
-<SYNC Start="2129740">
+<SYNC Start="2129740" conf="5" cont="1" speaker_first="Martha" speaker_last="Saragosa-Diaz">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 91%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2716,7 +2717,7 @@ credibility and reliability to their application
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2134570">
+<SYNC Start="2134570" conf="5" cont="1" speaker_first="Martha" speaker_last="Saragosa-Diaz">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 97%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2725,29 +2726,29 @@ credibility and reliability to their application
 </choice>
 and this education code section has not been looked at since </P>
 </SYNC>
-<SYNC Start="2139930">
+<SYNC Start="2139930" conf="5" cont="1" speaker_first="Martha" speaker_last="Saragosa-Diaz">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 88%]</P>
 <P Class="ENUSCC">
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>it was</corr>
 </choice>
 made into law so it is time to take a look at it in light of the fact that </P>
 </SYNC>
-<SYNC Start="2143790">
+<SYNC Start="2143790" conf="5" cont="1" speaker_first="Martha" speaker_last="Saragosa-Diaz">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 97%]</P>
 <P Class="ENUSCC">the criteria has created some confusion a among districts within </P>
 </SYNC>
-<SYNC Start="2149430">
+<SYNC Start="2149430" conf="5" cont="1" speaker_first="Martha" speaker_last="Saragosa-Diaz">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 95%]</P>
 <P Class="ENUSCC">
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>the</corr>
 </choice>
 state so this bill itself is a product of lots of </P>
 </SYNC>
-<SYNC Start="2154100">
+<SYNC Start="2154100" conf="5" cont="1" speaker_first="Martha" speaker_last="Saragosa-Diaz">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 94%]</P>
 <P Class="ENUSCC">discussions among stakeholders
 <choice>
@@ -2756,7 +2757,7 @@ state so this bill itself is a product of lots of </P>
 </choice>
 agreement with regards to </P>
 </SYNC>
-<SYNC Start="2157850">
+<SYNC Start="2157850" conf="5" cont="1" speaker_first="Martha" speaker_last="Saragosa-Diaz">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 96%]</P>
 <P Class="ENUSCC">what should be looked at 
 <choice>
@@ -2765,7 +2766,7 @@ agreement with regards to </P>
 </choice>
  </P>
 </SYNC>
-<SYNC Start="2163160">
+<SYNC Start="2163160" conf="5" cont="1" speaker_first="Martha" speaker_last="Saragosa-Diaz">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 96%]</P>
 <P Class="ENUSCC">be 
 <choice>
@@ -2774,7 +2775,7 @@ agreement with regards to </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2167020" speaker_first="Seth" speaker_last="Bramble">
+<SYNC Start="2167020" conf="5" cont="0" speaker_first="Seth" speaker_last="Bramble">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 84%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2783,7 +2784,7 @@ agreement with regards to </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2172000">
+<SYNC Start="2172000" conf="5" cont="1" speaker_first="Seth" speaker_last="Bramble">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 89%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2791,25 +2792,25 @@ agreement with regards to </P>
 	<corr>three hundred-thousand members of the California Teachers' Association</corr>
 </choice> </P>
 </SYNC>
-<SYNC Start="2176580">
+<SYNC Start="2176580" conf="5" cont="1" speaker_first="Seth" speaker_last="Bramble">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 98%]</P>
 <P Class="ENUSCC">in strong support of this important legislation
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>.</corr>
 </choice>
  I would say first and </P>
 </SYNC>
-<SYNC Start="2180780">
+<SYNC Start="2180780" conf="5" cont="1" speaker_first="Seth" speaker_last="Bramble">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 83%]</P>
 <P Class="ENUSCC">
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>foremost, it is</corr>
 </choice>
 simply good policy </P>
 </SYNC>
-<SYNC Start="2182510">
+<SYNC Start="2182510" conf="5" cont="1" speaker_first="Seth" speaker_last="Bramble">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 93%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2818,7 +2819,7 @@ simply good policy </P>
 </choice>
  </P>
 </SYNC>
-<SYNC Start="2187740">
+<SYNC Start="2187740" conf="5" cont="1" speaker_first="Seth" speaker_last="Bramble">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 92%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2827,7 +2828,7 @@ simply good policy </P>
 </choice>
 carefully scrutinizing the many policies that many practices that are occurring up and down the </P>
 </SYNC>
-<SYNC Start="2192360">
+<SYNC Start="2192360" conf="5" cont="1" speaker_first="Seth" speaker_last="Bramble">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 86%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2836,7 +2837,7 @@ carefully scrutinizing the many policies that many practices that are occurring 
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2196610">
+<SYNC Start="2196610" conf="5" cont="1" speaker_first="Seth" speaker_last="Bramble">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 99%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2845,11 +2846,11 @@ carefully scrutinizing the many policies that many practices that are occurring 
 </choice>
 really supporting the diverse linguistic and cultural needs of our students in the state
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>.  We ask for you high vote.</corr>
 </choice></P>
 </SYNC>
-<SYNC Start="2201380" speaker_first="Sherry" speaker_last="Griffith">
+<SYNC Start="2201380" conf="5" cont="0" speaker_first="Sherry" speaker_last="Griffith">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 83%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2858,7 +2859,7 @@ really supporting the diverse linguistic and cultural needs of our students in t
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2203620">
+<SYNC Start="2203620" conf="5" cont="1" speaker_first="Sherry" speaker_last="Griffith">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 93%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2867,29 +2868,29 @@ really supporting the diverse linguistic and cultural needs of our students in t
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2208390">
+<SYNC Start="2208390" conf="5" cont="1" speaker_first="Sherry" speaker_last="Griffith">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 96%]</P>
 <P Class="ENUSCC">to take a sampling of districts and look at their policies not only to match as </P>
 </SYNC>
-<SYNC Start="2213580">
+<SYNC Start="2213580" conf="5" cont="1" speaker_first="Sherry" speaker_last="Griffith">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 96%]</P>
 <P Class="ENUSCC">
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>it</corr>
 </choice>
 relates to research but also with the best practices are
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>and</corr>
 </choice>
  how we can learn from one another
  <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>.</corr>
 </choice> </P>
 </SYNC>
-<SYNC Start="2218690">
+<SYNC Start="2218690" conf="5" cont="1" speaker_first="Sherry" speaker_last="Griffith">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 89%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2898,7 +2899,7 @@ relates to research but also with the best practices are
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2222550">
+<SYNC Start="2222550" conf="5" cont="1" speaker_first="Sherry" speaker_last="Griffith">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 94%]</P>
 <P Class="ENUSCC">has been anecdotal so we think this is 
 <choice>
@@ -2907,7 +2908,7 @@ relates to research but also with the best practices are
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2232470" speaker_first="Leslie" speaker_last="Florez-Belmonte">
+<SYNC Start="2232470" conf="5" cont="0" speaker_first="Leslie" speaker_last="Florez-Belmonte">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 90%]</P>
 <P Class="ENUSCC">Good afternoon
 <choice>
@@ -2916,7 +2917,7 @@ relates to research but also with the best practices are
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2236860">
+<SYNC Start="2236860" conf="5" cont="1" speaker_first="Leslie" speaker_last="Florez-Belmonte">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 64%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2925,7 +2926,7 @@ relates to research but also with the best practices are
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2240770">
+<SYNC Start="2240770" conf="5" cont="1" speaker_first="Leslie" speaker_last="Florez-Belmonte">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 87%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2933,7 +2934,7 @@ relates to research but also with the best practices are
 	<corr>parent organizing and we're here to strong support this bill.</corr>
 </choice></P>
 </SYNC>
-<SYNC Start="2245020">
+<SYNC Start="2245020" conf="5" cont="1" speaker_first="Leslie" speaker_last="Florez-Belmonte">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 79%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2942,7 +2943,7 @@ relates to research but also with the best practices are
 </choice>
  </P>
 </SYNC>
-<SYNC Start="2249120">
+<SYNC Start="2249120" conf="5" cont="1" speaker_first="Leslie" speaker_last="Florez-Belmonte">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 91%]</P>
 <P Class="ENUSCC">student population 
 <choice>
@@ -2951,7 +2952,7 @@ relates to research but also with the best practices are
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2254460">
+<SYNC Start="2254460" conf="5" cont="1" speaker_first="Leslie" speaker_last="Florez-Belmonte">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 96%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2960,7 +2961,7 @@ relates to research but also with the best practices are
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2258540">
+<SYNC Start="2258540" conf="5" cont="1" speaker_first="Leslie" speaker_last="Florez-Belmonte">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 97%]</P>
 <P Class="ENUSCC">we live in california
 <choice>
@@ -2969,7 +2970,7 @@ relates to research but also with the best practices are
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2261960">
+<SYNC Start="2261960" conf="5" cont="1" speaker_first="Leslie" speaker_last="Florez-Belmonte">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 100%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2978,7 +2979,7 @@ relates to research but also with the best practices are
 </choice>
 best practices out there and that we need them to be assessed </P>
 </SYNC>
-<SYNC Start="2265530">
+<SYNC Start="2265530" conf="5" cont="1" speaker_first="Leslie" speaker_last="Florez-Belmonte">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 88%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2987,7 +2988,7 @@ best practices out there and that we need them to be assessed </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2270350" speaker_first="Madam" speaker_last="Chair">
+<SYNC Start="2270350" conf="5" cont="0" speaker_first="-" speaker_last="Chair">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 84%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -2996,7 +2997,7 @@ best practices out there and that we need them to be assessed </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2274490" speaker_first="Feleica" speaker_last="Jones">
+<SYNC Start="2274490" conf="5" cont="0" speaker_first="Felecia" speaker_last="Jones">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 85%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -3005,7 +3006,7 @@ best practices out there and that we need them to be assessed </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2279650" speaker_first="Melissa" speaker_last="San-Miguel">
+<SYNC Start="2279650" conf="5" cont="0" speaker_first="Melissa" speaker_last="San-Miguel">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 82%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -3014,7 +3015,7 @@ best practices out there and that we need them to be assessed </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2284350">
+<SYNC Start="2284350" conf="5" cont="1" speaker_first="Melissa" speaker_last="San-Miguel">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 79%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -3023,7 +3024,7 @@ best practices out there and that we need them to be assessed </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2286810" speaker_first="Janette" speaker_last="Sanpatine">
+<SYNC Start="2286810" conf="5" cont="0" speaker_first="Janette" speaker_last="Sanpatine">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 58%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -3032,16 +3033,16 @@ best practices out there and that we need them to be assessed </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2293320" speaker_first="Tiffany" speaker_last="Mock">
+<SYNC Start="2293320" conf="5" cont="0" speaker_first="Tiffany" speaker_last="Mock">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 83%]</P>
 <P Class="ENUSCC">
 <choice>
-	<sic />
+	<sic> </sic> 
 	<corr>Tiffany Mock on behalf of ACLU in support.</corr>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2296600" speaker_first="Jeff" speaker_last="Frost">
+<SYNC Start="2296600" conf="5" cont="0" speaker_first="Jeff" speaker_last="Frost">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 84%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -3050,7 +3051,7 @@ best practices out there and that we need them to be assessed </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2300930" speaker_first="Meyogi" speaker_last="Yee">
+<SYNC Start="2300930" conf="5" cont="0" speaker_first="Meyogi" speaker_last="Yee">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 90%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -3059,7 +3060,7 @@ best practices out there and that we need them to be assessed </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2305930" speaker_first="Micahel" speaker_last="Butler">
+<SYNC Start="2305930" conf="5" cont="0" speaker_first="Michael" speaker_last="Butler">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 82%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -3068,7 +3069,7 @@ best practices out there and that we need them to be assessed </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2311560">
+<SYNC Start="2311560" conf="5" cont="0" speaker_first="Gabrielle" speaker_last="Mendez">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 70%]</P>
 <P Class="ENUSCC">
 <choice>
@@ -3292,7 +3293,7 @@ best practices out there and that we need them to be assessed </P>
 <P Class="ENUSCC"><choice><sic>as society have placed and them _teachers.</sic><corr>, as society, have place in them as teachers.</corr></choice></P>
 </SYNC>
 <SYNC Start="2464900">
-<P Class="ENUSCC"><choice><sic /><corr /></choice></P>
+<P Class="ENUSCC"><choice><sic> </sic> <corr /></choice></P>
 </SYNC>
 <SYNC Start="2465930" conf="5" cont="1" speaker_first="-" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 93%]</P>
@@ -3339,7 +3340,7 @@ best practices out there and that we need them to be assessed </P>
 <P Class="ENUSCC"><choice><sic>abundantly clear because there's been talk about is just, you know,</sic><corr>abundantly clear because there's been talk about: is this</corr></choice></P>
 </SYNC>
 <SYNC Start="2510540">
-<P Class="ENUSCC"><choice><sic /><corr /></choice></P>
+<P Class="ENUSCC"><choice><sic> </sic> <corr /></choice></P>
 </SYNC>
 <SYNC Start="2511760" conf="5" cont="1" speaker_first="-">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 96%]</P>
@@ -3686,7 +3687,7 @@ best practices out there and that we need them to be assessed </P>
 <P Class="ENUSCC"><choice><sic>due process rights for certificate personal</sic><corr>due process rights for certificated personnel.</corr></choice></P>
 </SYNC>
 <SYNC Start="2868400">
-<P Class="ENUSCC"><choice><sic /><corr /></choice></P>
+<P Class="ENUSCC"><choice><sic> </sic> <corr /></choice></P>
 </SYNC>
 <SYNC Start="2869430" conf="5" cont="1" speaker_first="-" speaker_last="Padilla">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 82%]</P>
@@ -4372,8 +4373,7 @@ best practices out there and that we need them to be assessed </P>
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 87%]</P>
 <P Class="ENUSCC"><choice><sic>Michelle mckay _on behalf of the fresno unify school district and support.</sic><corr>Michelle Mckay-Underwood on behalf of the Fresno Unified School District in support.</corr></choice></P>
 </SYNC>
-<SYNC Start="3625460" conf="3" cont="0" speaker_first="Silvia" speaker_last="
-Salise-Shaw">
+<SYNC Start="3625460" conf="3" cont="0" speaker_first="Silvia" speaker_last=" Salise-Shaw">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 81%]</P>
 <P Class="ENUSCC"><choice><sic>Still _shot on behalf of the city of los angeles _tony over varicose</sic><corr>Silvia Salise-Shaw on behalf of the City of Los Angeles Mayor Antonio Villaraigosa.</corr></choice></P>
 </SYNC>
@@ -4422,7 +4422,7 @@ Salise-Shaw">
 <P Class="ENUSCC"><choice><sic>Welcome.</sic><corr /></choice></P>
 </SYNC>
 <SYNC Start="3702270">
-<P Class="ENUSCC"><choice><sic /><corr /></choice></P>
+<P Class="ENUSCC"><choice><sic> </sic> <corr /></choice></P>
 </SYNC>
 <SYNC Start="3705170" conf="5" cont="1" speaker_first="Patricia" speaker_last="Rucker">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 96%]</P>
@@ -4597,7 +4597,7 @@ Salise-Shaw">
 <P Class="ENUSCC"><choice><sic>california supreme court issues of binding.</sic><corr>California Supreme Court issued a binding</corr></choice></P>
 </SYNC>
 <SYNC Start="3890640">
-<P Class="ENUSCC"><choice><sic /><corr /></choice></P>
+<P Class="ENUSCC"><choice><sic> </sic> <corr /></choice></P>
 </SYNC>
 <SYNC Start="3891820" conf="5" cont="1" speaker_first="Patricia" speaker_last="Rucker">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 93%]</P>
@@ -4632,7 +4632,7 @@ Salise-Shaw">
 <P Class="ENUSCC"><choice><sic>_mark more than been involved in a homosexual relationship</sic><corr>because Mark Morrison had been involved in a homosexual relationship.</corr></choice></P>
 </SYNC>
 <SYNC Start="3925860">
-<P Class="ENUSCC"><choice><sic /><corr /></choice></P>
+<P Class="ENUSCC"><choice><sic> </sic> <corr /></choice></P>
 </SYNC>
 <SYNC Start="3927000" conf="5" cont="1" speaker_first="Patricia" speaker_last="Rucker">
 <P Class="ENUSCC" ID="Source">[Automatic Transcript Recognizability 90%]</P>
