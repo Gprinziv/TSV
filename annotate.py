@@ -17,46 +17,45 @@ def annotate(path, skip=0, verbose=False):
 		print ("Unknown transcript format")
 		return
 
+	get_speaker_attrs.prev_last = ''
+	get_speaker_attrs.prev_first = ''
+	get_speaker_attrs.prev_conf = 0
+	get_speaker_attrs.prev_cont = 0
+
 	counter = 0
 	for sync in body:
 		counter += 1
 		if counter <= skip:
 			continue
+
 		print ("SYNC %d" % (counter))
 		print ("--------------------\n")
-		should_break = get_corrections(sync, verbose)
-		print ("\n--------------------\n\n")
-
-		if should_break:
+		try:
+			get_corrections(sync, verbose)
+			print ("\n--------------------\n\n")
+		except EOFError:
+			print ("\n--------------------\n\n")
 			break
 
 	# write corrections
 	xml.write(out)
 
 def get_corrections(sync, verbose):
-	needs_edit = False
 	for para in sync:
 		if "ID" not in para.attrib:
 			if verbose or not has_corrections(para):
-				needs_edit = True
 				orig = get_original(para)
 				print ("Original: " + orig)
-				try:
-					corr = raw_input("Corrections: ")
+				corr = raw_input("Corrections: ")
+				if corr != '':
 					choice = new_choice(orig, corr)
 					for child in para:
 						para.remove(child)
 					para.text = ''
 					para.append(choice)
-				except EOFError:
-					return True
-					break
 	
-	if needs_edit:
-		get_speaker_attrs(sync)
-		needs_edit = False
+	get_speaker_attrs(sync)
 
-	return False
 
 def new_choice(orig, corr):
 	sic_el = ET.Element("sic")
@@ -97,6 +96,11 @@ def get_speaker_attrs(sync):
 	# add attribute
 	if last != '':
 		sync.attrib['speaker_last'] = last
+		get_speaker_attrs.prev_last = last
+	else:
+		sync.attrib['speaker_last'] = get_speaker_attrs.prev_last
+
+
 
 	if "speaker_first" in sync.attrib:
 		print ("Speaker First Name: " + sync.attrib['speaker_first'])
@@ -106,6 +110,11 @@ def get_speaker_attrs(sync):
 	# add attribute
 	if first != '':
 		sync.attrib['speaker_first'] = first
+		get_speaker_attrs.prev_first = first
+	else:
+		sync.attrib['speaker_first'] = get_speaker_attrs.prev_first
+
+
 
 	if "conf" in sync.attrib:
 		print ("Confidence: " + sync.attrib['conf'])
@@ -114,7 +123,12 @@ def get_speaker_attrs(sync):
 		conf = raw_input("Confidence (1-5)? ")
 	# add attribute
 	if conf != '':
-		sync.attrib['conf'] = conf
+		sync.attrib['conf'] = str(conf)
+		get_speaker_attrs.prev_conf = conf
+	else:
+		sync.attrib['conf'] = str(get_speaker_attrs.prev_conf)
+
+
 
 	if "cont" in sync.attrib:
 		print ("Same speaker as last utterance: " + sync.attrib['cont'])
@@ -123,7 +137,10 @@ def get_speaker_attrs(sync):
 		cont = raw_input("Same speaker as last utterance (0-1)? ")
 	# add attribute
 	if cont != '':
-		sync.attrib['cont'] = cont
+		sync.attrib['cont'] = str(cont)
+		get_speaker_attrs.prev_cont = cont
+	else:
+		sync.attrib['cont'] = str(get_speaker_attrs.prev_cont)
 
 	print ("new attrs: ")
 	print (sync.attrib)
