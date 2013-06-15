@@ -84,7 +84,7 @@ public class Legislator implements Listable {
       return ret;
    }
    
-   public Legislator get(Integer id) {
+   public static Legislator get(Integer id) {
       Legislator ret = null;
       Connection connection = DB.getConnection();
       PreparedStatement get = null;
