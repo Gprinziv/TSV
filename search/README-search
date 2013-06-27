@@ -1,0 +1,7 @@
+To set up lucene to run properly, you need to ensure the classpath is set:
+
+use the following command:
+
+export CLASSPATH=$CLASSPATH:./lucene-4.3.1/core/lucene-core-4.3.1.jar:./lucene-4.3.1/queryparser/lucene-queryparser-4.3.1.jar:./lucene-4.3.1/analysis/common/lucene-analyzers-commo\
+n-4.3.1.jar:./lucene-4.3.1/demo/lucene-demo-4.3.1.jar:.   
+
