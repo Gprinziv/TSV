@@ -21,5 +21,8 @@ GET		/person/:id					controllers.Person.show(id: Integer)
 # Search page
 GET		/search						controllers.Search.search(query: String)
 
+# Indexer
+GET		/indexer					controllers.Search.index()
+
 # Map static resources from the /public folder to the /assets URL path
 GET     /assets/*file               controllers.Assets.at(path="/public", file)
