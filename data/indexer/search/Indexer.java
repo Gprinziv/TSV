@@ -61,10 +61,16 @@ public class Indexer {
         for(int i=0; i<docs.size(); i++) {
           doc = new Document();
 
-          doc.add(new TextField("heading", docs.get(i).getHeading(), Field.Store.YES));
-          doc.add(new TextField("speakerLast", docs.get(i).getDescription(), Field.Store.YES));
-              
-          writer.addDocument(doc);
+          doc.add(new TextField("heading", ((Listable) docs.get(i)).getHeading(), Field.Store.YES));
+          doc.add(new TextField("speakerLast", ((Listable) docs.get(i)).getDescription(), Field.Store.YES));
+          try {
+             writer.addDocument(doc);
+          } catch (java.io.IOException e) {
+             System.err.println("Unable to write document to index");
+             System.exit(1);
+          }
+          
+          
         }
    }
 

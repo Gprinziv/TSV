@@ -1,9 +1,9 @@
 package models;
 
 public class Utterance {
-   String body;
-   Integer time;
-   Legislator speaker;
+   public String body;
+   public Integer time;
+   public Legislator speaker;
    
    public Utterance(String body, Integer time, Legislator speaker) {
       this.body = body;
