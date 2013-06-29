@@ -5,7 +5,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
-import java.util.Date;
+import java.sql.Date;
 import java.util.List;
 
 import db.DB;
@@ -21,7 +21,7 @@ public class Hearing {
    private static final String GET = "SELECT cid, bid, date FROM Hearing " +
          "WHERE cid = ? AND bid = ? AND date = ?";
    
-   private static final String GET_TRANSCRIPT = "SELECT pid, time, html" +
+   private static final String GET_TRANSCRIPT = "SELECT pid, time, html " +
    		"FROM Utterance WHERE cid = ? AND bid = ? AND date = ?";
 
    public Hearing(Date date, String bid, Integer cid) {
@@ -42,7 +42,8 @@ public class Hearing {
          get = connection.prepareStatement(GET);
          get.setInt(1, cid);
          get.setString(2, bid);
-         get.setDate(3, (java.sql.Date) date);
+         get.setDate(3, date);
+         System.out.println(get);
          res = get.executeQuery();
 
          if (res.next()) {

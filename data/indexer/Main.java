@@ -21,7 +21,7 @@ public class Main {
          transndx = new Indexer("~/opengov/data/indexer/indexes/transndx");
          legndx = new Indexer("~/opengov/data/indexer/indexes/legndx");
 
-         Hearing hear = Hearing.getOne(new Date(0,0,0), "201120120SB1530", 0);
+         Hearing hear = Hearing.getOne(new Date(112, 5 , 27), "201120120SB1530", 0);
          List<Utterance> utterances = hear.getTranscript();
          List<Bill> bills = Bill.getMany(0, Integer.MAX_VALUE);
             
@@ -41,7 +41,7 @@ public class Main {
             docs.add(docu);
          }
 
-         docs.add((Listable)hear);
+         //docs.add((Listable)hear);
       
          //index all documents
          legndx.indexListable(docs);

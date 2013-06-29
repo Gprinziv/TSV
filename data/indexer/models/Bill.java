@@ -192,9 +192,7 @@ public class Bill implements Listable {
    }
    
    public String getDescription() {
-      String description = currentVersion.getDigest().replaceAll("\\<.*?\\>", "");
-      int end = description.length() < 200 ? description.length() : 200;
-      return description.substring(0, end);
+      return currentVersion.getDigest().replaceAll("\\<.*?\\>", "");
    }
    
    public String getLink() {

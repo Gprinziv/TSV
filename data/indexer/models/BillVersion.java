@@ -131,7 +131,7 @@ public class BillVersion {
    }
 
    public String getDigest() {
-      return digest;
+      return digest == null ? "" : digest;
    }
 
    public String getText() {
