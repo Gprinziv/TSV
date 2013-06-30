@@ -18,8 +18,8 @@ public class Main {
       
       //Create indexers (one for singluar transcript), one for all leg docs
       try {
-         transndx = new Indexer("~/opengov/data/indexer/indexes/transndx");
-         legndx = new Indexer("~/opengov/data/indexer/indexes/legndx");
+         transndx = new Indexer("indexes/transndx");
+         legndx = new Indexer("indexes/legndx");
 
          Hearing hear = Hearing.getOne(new Date(112, 5 , 27), "201120120SB1530", 0);
          List<Utterance> utterances = hear.getTranscript();
