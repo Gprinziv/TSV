@@ -6,7 +6,7 @@ import mysql.connector
 import traceback
 
 legislators = {}
-conn = mysql.connector.connect(user="root", database="opengov", password="FlyingP1llows", buffered=True)
+conn = mysql.connector.connect(user="root", database="opengov", buffered=True)
 get = conn.cursor()
 
 class Utterance:

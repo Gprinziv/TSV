@@ -27,6 +27,6 @@ public class Utterance implements Listable {
 
    @Override
    public String getLink() {
-      return null;
+      return "http://www.youtube.com/v/0xvIq8GTh8o&autoplay=1&start=" + (time / 1000);
    }
 }

@@ -3,9 +3,6 @@
 DATA=/tmp/leginfo_load
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
-read -s -p "Enter SQL root password: " sqlpass
-echo
-
 mkdir $DATA 2> /dev/null
 
 for fold in $@
@@ -31,6 +28,6 @@ do
    for TBL in opengov_load/*
    do
       echo "   Loading ${TBL%.*}..."
-      (cd $fold && mysql -uroot -p$sqlpass --local-infile=1 -Dcapublic -f -v < $DIR/$TBL)
+      (cd $fold && mysql -uroot --local-infile=1 -Dcapublic -f -v < $DIR/$TBL)
    done
 done

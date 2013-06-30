@@ -31,8 +31,8 @@ public class Main {
          List<Listable> docs = new ArrayList<Listable>();
          Listable docu;
       
-         //add all utterances to main search docs
          for (int i=0; i < utterances.size(); i++) {
+            System.out.println(utterances.get(i));
             docu = (Listable) utterances.get(i);
             if (docu != null) {
                docs.add(docu);

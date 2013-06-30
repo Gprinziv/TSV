@@ -89,8 +89,8 @@ public class Indexer {
     for(int i=0; i < utterances.size(); i++) {
       doc = new Document();
       
-      doc.add(new TextField("speakerFirst", utterances.get(i).speaker.getFirst(), Field.Store.YES));
-      doc.add(new TextField("speakerLast", utterances.get(i).speaker.getLast(), Field.Store.YES));
+      doc.add(new TextField("speakerFirst", utterances.get(i).first, Field.Store.YES));
+      doc.add(new TextField("speakerLast", utterances.get(i).last, Field.Store.YES));
       doc.add(new IntField("timeStart", utterances.get(i).time, Field.Store.YES));
       doc.add(new TextField("utterance", utterances.get(i).body, Field.Store.YES));      
               

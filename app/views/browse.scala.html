@@ -35,7 +35,7 @@
       <div class="row-fluid">
         <span class="span12">
           <a class="dom-link dom-link-1" href="@item.getLink()">@item.getHeading()</a>
-          <p>@item.getDescription()</p>
+          <p>@item.getDescription().substring(0, Math.min(item.getDescription().length(), 400)) </p>
           <a class="dom-link" href="#"></a>
         </span>
       </div>
