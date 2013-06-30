@@ -50,12 +50,15 @@ public class Indexer {
      writer = new IndexWriter(dir, iwc);
    }
   
-  
+   public void closeIndexWriter() throws IOException {   
+      writer.close();     
+   }
+   
 
    /**
     * This needs to be a bill datatype
     */
-   public void indexListable(List<Listable> docs) {
+   public void indexListable(List<Listable> docs) throws IOException {
       
         Document doc;
         for(int i=0; i<docs.size(); i++) {
@@ -73,6 +76,8 @@ public class Indexer {
           
           
         }
+        writer.commit();
+        
    }
 
   /**
@@ -91,6 +96,10 @@ public class Indexer {
               
       writer.addDocument(doc);
     }
+
+       
+    writer.commit();
+    
 
   }
    

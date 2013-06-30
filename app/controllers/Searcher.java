@@ -50,7 +50,11 @@ public class Searcher {
     
    /** Creates a new instance of SearchEngine */
   public Searcher(String fields[], String index) throws IOException{
-     reader = DirectoryReader.open(FSDirectory.open(new File(index)));
+//     System.out.println(System.getProperty("user.dir") + " " + index);
+     File ndx = new File(index);
+//     System.out.println("HI~");
+     
+     reader = DirectoryReader.open(FSDirectory.open(ndx));
      searcher = new IndexSearcher(reader);
      analyzer = new StandardAnalyzer(Version.LUCENE_43);
      parser = new MultiFieldQueryParser(Version.LUCENE_43, fields, analyzer);
@@ -58,8 +62,9 @@ public class Searcher {
        
    public List<SearchResult> performSearch(String queryString)
       throws IOException, ParseException    {
-      Query query = parser.parse(queryString);
-      TopDocs results = searcher.search(query, null, 100);
+      Query query = parser.parse(queryString);   
+
+      TopDocs results = searcher.search(query, null, 100000000);
       ScoreDoc[] hits = results.scoreDocs;
 
       List<SearchResult> res = new ArrayList<SearchResult>();

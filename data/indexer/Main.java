@@ -18,8 +18,8 @@ public class Main {
       
       //Create indexers (one for singluar transcript), one for all leg docs
       try {
-         transndx = new Indexer("indexes/transndx");
-         legndx = new Indexer("indexes/legndx");
+         transndx = new Indexer("./indexes/transndx");
+         legndx = new Indexer("./indexes/legndx");
 
          Hearing hear = Hearing.getOne(new Date(112, 5 , 27), "201120120SB1530", 0);
          List<Utterance> utterances = hear.getTranscript();
@@ -31,6 +31,7 @@ public class Main {
          List<Listable> docs = new ArrayList<Listable>();
          Listable docu;
       
+         //add all utterances to main search docs
          for (int i=0; i < utterances.size(); i++) {
             docu = (Listable) utterances.get(i);
             if (docu != null) {
@@ -39,6 +40,7 @@ public class Main {
             
          }
 
+         //add all bills to main search docs
          for (int i=0; i < bills.size(); i++) {
             docu = bills.get(i);
             if (docu != null) {               
@@ -51,11 +53,15 @@ public class Main {
       
          //index all documents
          legndx.indexListable(docs);
-
+         
+//         legndx.closeIndexWriter();
 
       } catch (IOException e) {
          System.err.println("Unable to create indexer.");
+
          System.exit(1);
-      }
+
+      } 
+      
    }
 }

@@ -16,7 +16,7 @@ import models.Listable;
 public class Search extends Controller {
 
    public static Result search(String query) {
-      String index = "indexes/legndx";
+      String index = "data/indexer/indexes/legndx";
       String fields[] = {"heading", "description", "link"};
       List<SearchResult> results = new ArrayList<SearchResult>();
       
@@ -24,7 +24,10 @@ public class Search extends Controller {
          Searcher newSearch = new Searcher(fields, index);
          results = newSearch.performSearch(query);
       } catch (IOException e) {
+         System.out.println(System.getProperty("user.dir") + " " + index);
          System.err.println("Unable to open index");
+         e.printStackTrace();
+         
          System.exit(1);
       } catch (ParseException x) {
          System.err.println("Unable to open parse query");
