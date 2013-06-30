@@ -2,10 +2,14 @@ package models;
 
 public class Utterance implements Listable {
    String body;
+   String first;
+   String last;
    Integer time;
    Legislator speaker;
    
-   public Utterance(String body, Integer time, Legislator speaker) {
+   public Utterance(String body, Integer time, Legislator speaker, String first, String last) {
+      this.first = first;
+      this.last = last;
       this.body = body;
       this.time = time;
       this.speaker = speaker;
@@ -13,7 +17,7 @@ public class Utterance implements Listable {
 
    @Override
    public String getHeading() {
-      return speaker.getFirst() + " " + speaker.getLast();
+      return first + " " + last;
    }
 
    @Override

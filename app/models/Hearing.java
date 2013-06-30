@@ -22,7 +22,7 @@ public class Hearing {
    private static final String GET = "SELECT cid, bid, date FROM Hearing " +
          "WHERE cid = ? AND bid = ? AND date = ?";
    
-   private static final String GET_TRANSCRIPT = "SELECT pid, time, html" +
+   private static final String GET_TRANSCRIPT = "SELECT pid, time, html, first, last " +
    		"FROM Utterance WHERE cid = ? AND bid = ? AND date = ?";
 
    public Hearing(Date date, String bid, Integer cid) {
@@ -120,7 +120,8 @@ public class Hearing {
          ret = new ArrayList<Utterance>();
          while (res.next()) {
             speaker = Legislator.get(res.getInt("pid"));
-            ret.add(new Utterance(res.getString("html"), res.getInt("time"), speaker));
+            ret.add(new Utterance(res.getString("html"), res.getInt("time"),
+                     speaker, res.getString("first"), res.getString("last")));
          }
 
       } catch (SQLException e) {

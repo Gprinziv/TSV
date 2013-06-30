@@ -191,6 +191,8 @@ CREATE TABLE IF NOT EXISTS Utterance (
    bid    VARCHAR(20),
    cid    INTEGER(3),
    pid    INTEGER,
+   first  TEXT,
+   last   TEXT,
    time   INTEGER,
    text   TEXT,
    html   TEXT,

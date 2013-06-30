@@ -3,6 +3,7 @@ import sys
 import string
 import re
 import mysql.connector
+import traceback
 
 legislators = {}
 conn = mysql.connector.connect(user="root", database="opengov", password="FlyingP1llows", buffered=True)
@@ -18,12 +19,14 @@ class Utterance:
          self.pid   = legislators[first][last]
       self.time  = int(time)
       self.text  = text
+      self.first = str(first)
+      self.last  = str(last)
 
    def save(self):
       Utterance.put.execute("INSERT INTO Utterance (date, bid, cid, pid, "
-            "time, text) VALUES (%s, %s, %s, %s, %s, %s)",
+            "time, text, first, last) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)",
             (sys.argv[2], sys.argv[3], sys.argv[4],
-               self.pid, self.time, self.text))
+               self.pid, self.time, self.text, self.first, self.last))
 
 failures = set()
 
@@ -55,6 +58,7 @@ for utterance_element in transcript.xpath("BODY/SYNC"):
       utterance = Utterance(first, last, time, text)
       utterance.save()
    except:
+      traceback.print_exc()
       failures.add((first, last))
 
 for (first, last) in failures:
