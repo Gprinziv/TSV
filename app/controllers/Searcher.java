@@ -21,7 +21,7 @@ import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.queryparser.classic.ParseException;
-import org.apache.lucene.queryparser.classic.QueryParser;
+import org.apache.lucene.queryparser.classic.MultiFieldQueryParser;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
@@ -36,9 +36,14 @@ import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.util.Version;
 
+import models.Listable;
+import java.util.ArrayList;
+import java.util.List;
+import models.SearchResult;
+
 public class Searcher {   
    private IndexSearcher searcher = null;
-   private QueryParser parser = null;
+   private MultiFieldQueryParser parser = null;
    private Directory dir = null;
    private IndexReader reader = null;
    private Analyzer analyzer;
@@ -51,18 +56,18 @@ public class Searcher {
      parser = new MultiFieldQueryParser(Version.LUCENE_43, fields, analyzer);
    }
        
-   public TopDocs performSearch(String queryString)
+   public List<SearchResult> performSearch(String queryString)
       throws IOException, ParseException    {
       Query query = parser.parse(queryString);
       TopDocs results = searcher.search(query, null, 100);
       ScoreDoc[] hits = results.scoreDocs;
 
-      List<Listable> res = new ArrayList<Listable>();
+      List<SearchResult> res = new ArrayList<SearchResult>();
       Document d;
-      Listable l;
+      SearchResult l;
       
       for (int i=0; i < hits.length; i++){
-         d = this.doc(hits[i].doc);
+         d = searcher.doc(hits[i].doc);
          l = new SearchResult(d.get("heading"), d.get("description"), d.get("link"));
          res.add(l);      
       }
