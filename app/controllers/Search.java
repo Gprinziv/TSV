@@ -24,7 +24,27 @@ public class Search extends Controller {
          Searcher newSearch = new Searcher(fields, index);
          results = newSearch.performSearch(query);
       } catch (IOException e) {
-         System.out.println(System.getProperty("user.dir") + " " + index);
+         System.err.println("Unable to open index");
+         e.printStackTrace();
+         
+         System.exit(1);
+      } catch (ParseException x) {
+         System.err.println("Unable to open parse query");
+         System.exit(1);
+      }
+      
+      return ok(browse.render(results));
+   }
+
+   public static Result transSearch(String query) {
+      String index = "data/indexer/indexes/transndx";
+      String fields[] = {"speakerFirst", "speakerLast", "timeStart", "utterance"};
+      List<Listable> results = new ArrayList<Listable>();
+      
+      try {
+         Searcher newSearch = new Searcher(fields, index);
+         results = newSearch.performTransSearch(query);
+      } catch (IOException e) {
          System.err.println("Unable to open index");
          e.printStackTrace();
          

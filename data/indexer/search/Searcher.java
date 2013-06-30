@@ -70,6 +70,26 @@ public class Searcher {
       return res;   
    }
 
+   public TopDocs performTransSearch(String queryString)
+      throws IOException, ParseException    {
+      Query query = parser.parse(queryString);
+      TopDocs results = searcher.search(query, null, 100);
+      ScoreDoc[] hits = results.scoreDocs;
+
+      List<Listable> res = new ArrayList<Listable>();
+      Document d;
+      Listable l;
+      
+      for (int i=0; i < hits.length; i++){
+         d = this.doc(hits[i].doc);
+         l = new SearchResult(d.get("speakerFirst"), d.get("speakerLast"), d.get("timeStart"), 
+                              d.get("utterance"));
+         res.add(l);      
+      }
+      
+      return res;   
+   }
+
   public void closeReader() throws IOException {
     reader.close();
   }
