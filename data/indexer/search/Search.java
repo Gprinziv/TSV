@@ -55,9 +55,19 @@ public class Search {
       throws IOException, ParseException    {
       Query query = parser.parse(queryString);
       TopDocs results = searcher.search(query, null, 100);
-//      ScoreDoc[] hits = results.scoreDocs;
+      ScoreDoc[] hits = results.scoreDocs;
+
+      List<Listable> res = new ArrayList<Listable>();
+      Document d;
+      Listable l;
       
-      return results;   
+      for (int i=0; i < hits.length; i++){
+         d = this.doc(hits[i].doc);
+         l = new SearchResult(d.get("heading"), d.get("description"), d.get("link"));
+         res.add(l);      
+      }
+      
+      return res;   
    }
 
   public void closeReader() throws IOException {

@@ -33,12 +33,18 @@ public class Main {
       
          for (int i=0; i < utterances.size(); i++) {
             docu = (Listable) utterances.get(i);
-            docs.add(docu);
+            if (docu != null) {
+               docs.add(docu);
+            }
+            
          }
 
          for (int i=0; i < bills.size(); i++) {
             docu = bills.get(i);
-            docs.add(docu);
+            if (docu != null) {               
+               docs.add(docu);
+            }
+            
          }
 
          //docs.add((Listable)hear);

@@ -62,7 +62,8 @@ public class Indexer {
           doc = new Document();
 
           doc.add(new TextField("heading", ((Listable) docs.get(i)).getHeading(), Field.Store.YES));
-          doc.add(new TextField("speakerLast", ((Listable) docs.get(i)).getDescription(), Field.Store.YES));
+          doc.add(new TextField("description", ((Listable) docs.get(i)).getDescription(), Field.Store.YES));
+          doc.add(new TextField("link", ((Listable) docs.get(i)).getLink(), Field.Store.YES));
           try {
              writer.addDocument(doc);
           } catch (java.io.IOException e) {
