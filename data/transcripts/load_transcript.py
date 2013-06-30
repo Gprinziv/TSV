@@ -23,7 +23,7 @@ class Utterance:
       self.last  = str(last)
 
    def save(self):
-      Utterance.put.execute("INSERT INTO Utterance (date, bid, cid, pid, "
+      Utterance.put.execute("REPLACE INTO Utterance (date, bid, cid, pid, "
             "time, text, first, last) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)",
             (sys.argv[2], sys.argv[3], sys.argv[4],
                self.pid, self.time, self.text, self.first, self.last))
@@ -54,12 +54,15 @@ for utterance_element in transcript.xpath("BODY/SYNC"):
    text = re.sub(r' ([.,?!])', r'\1', text)
    text = text.encode('ascii', 'ignore')
 
-   try:
-      utterance = Utterance(first, last, time, text)
-      utterance.save()
-   except:
-      traceback.print_exc()
-      failures.add((first, last))
+   if utterance_element.xpath('@cont') == '1':
+      utterance.text += text
+   else:
+      try:
+         utterance = Utterance(first, last, time, text)
+         utterance.save()
+      except:
+         traceback.print_exc()
+         failures.add((first, last))
 
 for (first, last) in failures:
    print("%s, %s" % (last, first))
