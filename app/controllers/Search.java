@@ -2,15 +2,17 @@ package controllers;
 
 import play.mvc.Controller;
 import play.mvc.Result;
-import views.html.search;
+import views.html.browse;
 
 import java.util.List;
 import java.util.ArrayList;
 import java.sql.Date;
 
+import models.Listable;
+
 public class Search extends Controller {
 
-   public static Result searchAll(String query) {
+   public static Result search(String query) {
       String index = "indexes/legndx";
       String fields[] = {"heading", "description", "link"};
       
