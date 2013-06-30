@@ -20,6 +20,7 @@ GET		/person/:id					controllers.Person.show(id: Integer)
 
 # Search page
 GET		/search						controllers.Search.search(query: String)
+GET      /search/transcript      controllers.Search.transSearch(query: String)
 
 # Indexer
 GET		/indexer					controllers.Search.index()
