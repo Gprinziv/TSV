@@ -57,8 +57,19 @@
 
 .search-query {
   width: 80%;
+  height: 40px;
 }
 
-.span6 {
-  width: 800px;
+.icon {
+ height: 50px;
+ font-size: 48px;
 }
+
+.span4 {
+  width: 20%;
+}
+
+.form-inline{
+  width: 80%;
+}
+

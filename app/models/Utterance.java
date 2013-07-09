@@ -1,5 +1,7 @@
 package models;
 
+import java.sql.Time;
+
 public class Utterance implements Listable {
    String body;
    String first;
@@ -17,7 +19,12 @@ public class Utterance implements Listable {
 
    @Override
    public String getHeading() {
-      return first + " " + last;
+      int seconds = time / 1000;
+      int second = seconds % 60;
+      int minute = (seconds / 60) % 60;
+      int hours = (seconds / 60 / 60);
+      return "SB 1530: An act to amend Section 435 of the Education Code, relating to pupils. 6/27/2012 " +
+         hours + ":" + minute + ":" + second + " " + first + " " + last;
    }
 
    @Override
@@ -27,6 +34,6 @@ public class Utterance implements Listable {
 
    @Override
    public String getLink() {
-      return "http://www.youtube.com/v/0xvIq8GTh8o&autoplay=1&start=" + (time / 1000);
+      return "http://www.youtube.com/watch?v=0xvIq8GTh8o&autoplay=1&t=" + (time / 1000);
    }
 }

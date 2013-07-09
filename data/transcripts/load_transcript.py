@@ -23,7 +23,7 @@ class Utterance:
       self.last  = str(last)
 
    def save(self):
-      Utterance.put.execute("INSERT INTO Utterance (date, bid, cid, pid, "
+      Utterance.put.execute("REPLACE INTO Utterance (date, bid, cid, pid, "
             "time, text, first, last) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)",
             (sys.argv[2], sys.argv[3], sys.argv[4],
                self.pid, self.time, self.text, self.first, self.last))
@@ -44,22 +44,30 @@ for utterance_element in transcript.xpath("BODY/SYNC"):
    speaker_first = utterance_element.xpath('@speaker_first')
    speaker_last  = utterance_element.xpath('@speaker_last')
    Start         = utterance_element.xpath('@Start')
+   cont          = utterance_element.xpath('@cont')
 
    first = speaker_first[0] if len(speaker_first) > 0 else ""
    last  = speaker_last[0]  if len(speaker_last)  > 0 else ""
    time  = Start[0]         if len(Start)         > 0 else -1
+   cont  = cont[0]          if len(cont)          > 0 else '0'
 
    text = ' '.join(utterance_element.xpath('descendant::*[name() != "sic"]/text()'))
    text = ' '.join(text.split())
    text = re.sub(r' ([.,?!])', r'\1', text)
    text = text.encode('ascii', 'ignore')
 
-   try:
-      utterance = Utterance(first, last, time, text)
-      utterance.save()
-   except:
-      traceback.print_exc()
-      failures.add((first, last))
+   if cont == '1':
+      utterance.text += " " + text
+   else:
+      try:
+         utterance = Utterance(first, last, time, text)
+         utterances.append(utterance)
+      except:
+         traceback.print_exc()
+         failures.add((first, last))
+
+for utterance in utterances:
+   utterance.save()
 
 for (first, last) in failures:
    print("%s, %s" % (last, first))

@@ -8,10 +8,10 @@
 <SYNC Start="0">
 <P Class="ENUSCC">AUTOMATIC CLOSED CAPTIONING provided by the Microsoft Research Audio Video Indexing Service. Post editing may be required prior to usage.</P>
 </SYNC>
-<SYNC Start="1039410" conf="5" cont="0" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1039410" conf="5" cont="0" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">Okay, I'm going to call this </P>
 </SYNC>
-<SYNC Start="1040830" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1040830" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">meeting to order
 <choice>
 	<sic>apologies</sic>
@@ -19,7 +19,7 @@
 </choice>
 right off the bat for starting a little </P>
 </SYNC>
-<SYNC Start="1045370" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1045370" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">later today
 <choice>
 	<sic>there's</sic>
@@ -31,21 +31,21 @@ been a lot going on in the building.
 	<corr type="punct, grammar"> We</corr>
 </choice>have twenty-one </P>
 </SYNC>
-<SYNC Start="1050740" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1050740" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">bills on file today and five of those are on
 <choice>
 	<sic> </sic> 
 	<corr type="punc_add, phrase_change">.  The</corr>
 </choice>consent</P>
 </SYNC>
-<SYNC Start="1054920" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1054920" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">bills
 <choice>
 	<sic> </sic> 
 	<corr>are file item</corr>
 </choice>number-one </P>
 </SYNC>
-<SYNC Start="1058130" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1058130" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">
 <choice>
 	<sic>SBTwo seventy-five</sic>
@@ -61,7 +61,7 @@ item number five
 	<corr type="phrase_change, punct">, SB-1070, </corr>
 </choice></P>
 </SYNC>
-<SYNC Start="1063340" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1063340" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">by
 <choice>
 	<sic>steinberg file</sic>
@@ -69,7 +69,7 @@ item number five
 </choice>
 item number six</P>
 </SYNC>
-<SYNC Start="1067890" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1067890" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">
 <choice>
 	<sic>ten eighty eight</sic>
@@ -80,7 +80,7 @@ item number six</P>
 	<corr type="grammar">Senator Price</corr>
 </choice>.</P>
 </SYNC>
-<SYNC Start="1070930" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1070930" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">File item eleven 
 <choice>
 	<sic>as BTwelve forty-five</sic>
@@ -88,7 +88,7 @@ item number six</P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1073730" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1073730" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">by 
 <choice>
 	<sic>senator all quest and</sic>
@@ -96,7 +96,7 @@ item number six</P>
 </choice>
 file item seventeen fourteen </P>
 </SYNC>
-<SYNC Start="1077800" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1077800" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">
 <choice>
 	<sic>fourteen ninety seven</sic>
@@ -108,10 +108,10 @@ by
 	<corr type="grammar, punct, phrase_change">Senator Nagretti Macleod.  For</corr>
 </choice></P>
 </SYNC>
-<SYNC Start="1081030" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1081030" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">today's hearing we will need to impose some </P>
 </SYNC>
-<SYNC Start="1086780" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1086780" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">time limit on testimony
 <choice>
 	<sic> </sic> 
@@ -119,7 +119,7 @@ by
 </choice>
 going to I'm going to sort of play </P>
 </SYNC>
-<SYNC Start="1092660" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1092660" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">
 <choice>
 	<sic>year</sic>
@@ -127,10 +127,10 @@ going to I'm going to sort of play </P>
 </choice>
 and see how it goes for I </P>
 </SYNC>
-<SYNC Start="1097060" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1097060" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">am going to allow a little bit more time for</P>
 </SYNC>
-<SYNC Start="1102470" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1102470" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">
 <choice>
 	<sic>mister</sic>
@@ -143,7 +143,7 @@ bill which is
 </choice>
 and we will </P>
 </SYNC>
-<SYNC Start="1106250" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1106250" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">
 <choice>
 	<sic>out</sic>
@@ -155,7 +155,7 @@ ten minutes for each side in terms of
 	<corr>testimony and</corr>
 </choice></P>
 </SYNC>
-<SYNC Start="1114390" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1114390" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">
 I believe that we have a quorum so if the secretary could call the
 <choice>
@@ -223,7 +223,7 @@ I believe that we have a quorum so if the secretary could call the
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1144470" conf="5" cont="0" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1144470" conf="5" cont="0" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">Thank you so we will 
 <choice>
 	<sic>began mr are pity </sic>
@@ -231,7 +231,7 @@ I believe that we have a quorum so if the secretary could call the
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1146840" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1146840" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">excuse me
 <choice>
 	<sic> </sic> 
@@ -239,7 +239,7 @@ I believe that we have a quorum so if the secretary could call the
 </choice>
  is first </P>
 </SYNC>
-<SYNC Start="1150110" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1150110" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">in 
 <choice>
 	<sic>seinen</sic>
@@ -252,7 +252,7 @@ I believe that we have a quorum so if the secretary could call the
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1153970" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1153970" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">
 <choice>
 	<sic>read bills.</sic>
@@ -260,7 +260,7 @@ I believe that we have a quorum so if the secretary could call the
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1156110" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1156110" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">
 <choice>
 	<sic>Before</sic>
@@ -273,7 +273,7 @@ us so, we will begin with
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1162210" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1162210" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">
 <choice>
 	<sic>for the members stuff</sic>
@@ -281,7 +281,7 @@ us so, we will begin with
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1165770" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1165770" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">
 <choice>
 	<sic>items three sunken</sic>
@@ -1174,7 +1174,7 @@ to </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1577840" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1577840" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">
 <choice>
 	<sic>and moved and sex and my doctor haldeman and mr </sic>
@@ -1425,7 +1425,7 @@ to them out to help improve their students
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1709420" conf="5" cont="0" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1709420" conf="5" cont="0" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">Any witnesses
 <choice>
 	<sic>and</sic>
@@ -1433,7 +1433,7 @@ to them out to help improve their students
 </choice>
   opposition.</P>
 </SYNC>
-<SYNC Start="1713330" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1713330" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">
 <choice>
 	<sic>A phenomic built is before us there's been</sic>
@@ -1441,7 +1441,7 @@ to them out to help improve their students
 </choice>
  </P>
 </SYNC>
-<SYNC Start="1716430" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1716430" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">
 <choice>
 	<sic>emotion in a second</sic>
@@ -1453,7 +1453,7 @@ comments or questions
 	<corr>?</corr>
 </choice></P>
 </SYNC>
-<SYNC Start="1720670" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1720670" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">Doctor 
 <choice>
 	<sic>holden</sic>
@@ -1502,7 +1502,7 @@ I really appreciate your respecting the process and I'm glad to
 	<corr>support this.  Thank you very much.</corr>
 </choice></P>
 </SYNC>
-<SYNC Start="1740720" conf="5" cont="0" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1740720" conf="5" cont="0" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">
 <choice>
 	<sic>You know, other comments mr</sic>
@@ -1705,7 +1705,7 @@ overly broad
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1813190" conf="5" cont="0" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1813190" conf="5" cont="0" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">
 <choice>
 	<sic>you mr _centered</sic>
@@ -1718,7 +1718,7 @@ I believe you have two more witnesses
 </choice>
 support and </P>
 </SYNC>
-<SYNC Start="1818520" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1818520" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">
 <choice>
 	<sic>feel </sic>
@@ -1731,7 +1731,7 @@ just state your name and organization your
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1821730" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1821730" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">&#160;</P>
 </SYNC>
 <SYNC Start="1822770" conf="5" cont="0" speaker_first="Janette" speaker_last="Sanpetine">
@@ -1760,13 +1760,13 @@ on behalf of the
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1835980" conf="5" cont="0" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1835980" conf="5" cont="0" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC"><choice><sic>Okay,</sic><corr>Chair</corr></choice></P>
 </SYNC>
-<SYNC Start="1837480" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1837480" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">very good but, before we vote on the bill and ask you to close I just like to make </P>
 </SYNC>
-<SYNC Start="1842390" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1842390" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">one comment and to say that I think this is a very powerful bill
 <choice>
 	<sic>I</sic>
@@ -1774,7 +1774,7 @@ on behalf of the
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1847520" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1847520" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">
 <choice>
 	<sic>for</sic>
@@ -1782,7 +1782,7 @@ on behalf of the
 </choice>
 someone I have been working on school finance </P>
 </SYNC>
-<SYNC Start="1849760" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1849760" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">
 <choice>
 	<sic>before</sic>
@@ -1795,7 +1795,7 @@ now for a long-time
 </choice>
  I think the notion of </P>
 </SYNC>
-<SYNC Start="1854930" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1854930" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">transparency 
 <choice>
 	<sic>piece</sic>
@@ -1808,20 +1808,20 @@ knowing how much
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1859500" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1859500" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">and then how that is what the decisions are and how that money is </P>
 </SYNC>
-<SYNC Start="1863510" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1863510" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">distributed I believe very strongly that will leverage better decision-making and, </P>
 </SYNC>
-<SYNC Start="1870620" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1870620" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">bring parents to the table as part of that 
 <choice>
 	<sic>a</sic>
 	<corr />
 </choice></P>
 </SYNC>
-<SYNC Start="1873460" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1873460" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">
 <choice>
 	<sic>processes well so I believe _still have a very good impact </sic>
@@ -1829,10 +1829,10 @@ knowing how much
 </choice>
 </P>
 </SYNC>
-<SYNC Start="1878960" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1878960" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">in the long-run so I appreciate you</P>
 </SYNC>
-<SYNC Start="1881800" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1881800" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">
 <choice>
 	<sic> </sic> 
@@ -1982,7 +1982,7 @@ have a select committee in the
 </choice>
  </P>
 </SYNC>
-<SYNC Start="1939570" conf="5" cont="0" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1939570" conf="5" cont="0" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">you very much
 <choice>
 	<sic>of the motion to passes amended to the appropriations committee and </sic>
@@ -2050,14 +2050,14 @@ have a select committee in the
 	<corr />
 </choice></P>
 </SYNC>
-<SYNC Start="1977180" conf="5" cont="0" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1977180" conf="5" cont="0" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">
 <choice>
 	<sic>seven butcher bill</sic>
 	<corr>That's seven votes for bill</corr>
 </choice> </P>
 </SYNC>
-<SYNC Start="1978940" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="1978940" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">out and we will move on then
 <choice>
 	<sic>items seven eleven </sic>
@@ -2635,7 +2635,7 @@ best practices out there and that we need them to be assessed </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2270350" conf="5" cont="0" speaker_first="-" speaker_last="Chair">
+<SYNC Start="2270350" conf="5" cont="0" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">
 <choice>
 	<sic>next witness if you don't know just state your name organization your position on </sic>
@@ -2747,7 +2747,7 @@ best practices out there and that we need them to be assessed </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2334320" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="2334320" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">
 <choice>
 	<sic>is in support of witnesses and opposition of the bill has the motion by </sic>
@@ -2755,7 +2755,7 @@ best practices out there and that we need them to be assessed </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2339140" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="2339140" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">
 <choice>
 	<sic>on a second by doctor haldeman mended _growth.</sic>
@@ -2829,7 +2829,7 @@ best practices out there and that we need them to be assessed </P>
 </choice>
  </P>
 </SYNC>
-<SYNC Start="2387450" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="2387450" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC">
 <choice>
 	<sic>or questions again I think this is an excellent bill</sic>
@@ -2837,19 +2837,19 @@ best practices out there and that we need them to be assessed </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="2391750" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="2391750" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC"><choice><sic>going back to using best practices are looking at best practices in research</sic><corr>going back to using best practices or looking at best practices in research</corr></choice></P>
 </SYNC>
-<SYNC Start="2396430" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="2396430" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC"><choice><sic>free classification thank you for bringing the bill for _if you'd like to close.</sic><corr>for re-classification. Thank you for bringing the bill forward and if you'd like to close.</corr></choice></P>
 </SYNC>
-<SYNC Start="2401560" conf="5" cont="0" speaker_first="-" speaker_last="Chair">
+<SYNC Start="2401560" conf="5" cont="0" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC"><choice><sic>Thank you for your support _very good and the motion is</sic><corr>Thank you for your support.  I ask for your high vote.  Very good, and the motion is</corr></choice></P>
 </SYNC>
-<SYNC Start="2405180" conf="5" cont="0" speaker_first="-" speaker_last="Chair">
+<SYNC Start="2405180" conf="5" cont="0" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC"><choice><sic>_passes amended to the appropriations committee well secretary</sic><corr>due pass ammended to the appropriations committee.  Will the secretary</corr></choice></P>
 </SYNC>
-<SYNC Start="2409980" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="2409980" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC"><choice><sic>_the roll around me.</sic><corr>call the roll?  Brownly?</corr></choice></P>
 </SYNC>
 <SYNC Start="2412770" conf="5" cont="0" speaker_first="-" speaker_last="Secretary">
@@ -2870,13 +2870,13 @@ best practices out there and that we need them to be assessed </P>
 <SYNC Start="2429230" conf="5" cont="1" speaker_first="0" speaker_last="Secretary">
 <P Class="ENUSCC"><choice><sic>Williams, williams I.</sic><corr>Williams?  I.  Williams I.</corr></choice></P>
 </SYNC>
-<SYNC Start="2432980" conf="5" cont="0" speaker_first="-" speaker_last="Chair">
+<SYNC Start="2432980" conf="5" cont="0" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC"><choice><sic>_eight votes that bill is alps and will now go to europe</sic><corr>Eight votes.  That bill is out and we'll now go to your last</corr></choice></P>
 </SYNC>
-<SYNC Start="2437130" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="2437130" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC"><choice><sic>_still which</sic><corr>bill, which</corr></choice></P>
 </SYNC>
-<SYNC Start="2438210" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="2438210" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC"><choice><sic>_the _thirty item nineteen thank</sic><corr>is SB-1530, item 19.  Thank</corr></choice></P>
 </SYNC>
 <SYNC Start="2442905" conf="5" cont="0" speaker_first="-" speaker_last="Padilla">
@@ -3206,10 +3206,10 @@ best practices out there and that we need them to be assessed </P>
 <SYNC Start="2884390" conf="5" cont="1" speaker_first="-" speaker_last="Padilla">
 <P Class="ENUSCC"><choice><sic>_president of _sensing for school district board very good and</sic><corr>Monica Garcia, President of the Los Angeles Unified School District Board.  Very good and</corr></choice></P>
 </SYNC>
-<SYNC Start="2889140" conf="5" cont="0" speaker_first="-" speaker_last="Chair">
+<SYNC Start="2889140" conf="5" cont="0" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC"><choice><sic>I wanna-be provide a little bit more time here but roughly at ten minutes</sic><corr>I want to provide a little bit more time here but roughly ten minutes</corr></choice></P>
 </SYNC>
-<SYNC Start="2894170" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="2894170" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC"><choice><sic>so a place _welcome again my name is rick riders _superintendent the</sic><corr>so please proceed and welcome.  Again, my name is Rick Rogers, I'm superintendent of the</corr></choice></P>
 </SYNC>
 <SYNC Start="2898280" conf="5" cont="0" speaker_first="Rick" speaker_last="Rogers">
@@ -3437,7 +3437,7 @@ best practices out there and that we need them to be assessed </P>
 <SYNC Start="3221130" conf="5" cont="1" speaker_first="Rick" speaker_last="Rogers">
 <P Class="ENUSCC"><choice><sic>_counting on you to do the right thing and passes bill.</sic><corr>are counting on you to do the right thing and pass this bill.  Thank you.</corr></choice></P>
 </SYNC>
-<SYNC Start="3225980" conf="5" cont="0" speaker_first="-" speaker_last="Chair">
+<SYNC Start="3225980" conf="5" cont="0" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC"><choice><sic>Thank you sir that was about five minutes so please _good afternoon my name</sic><corr>Thank you sir, that was about five minutes so please proceed.  Good afternnoon, my name</corr></choice></P>
 </SYNC>
 <SYNC Start="3230910" conf="5" cont="0" speaker_first="Monica" speaker_last="Garcia">
@@ -3632,7 +3632,7 @@ best practices out there and that we need them to be assessed </P>
 <SYNC Start="3498160" conf="5" cont="1" speaker_first="Monica" speaker_last="Garcia">
 <P Class="ENUSCC"><choice><sic>thank you thank you thank you for testimony thank you for your hard work</sic><corr>. Thank you.  Thank you and thank you for your testimony.  Thank you for your hard work</corr></choice></P>
 </SYNC>
-<SYNC Start="3503570" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="3503570" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC"><choice><sic>in leadership _with _next witness madame chair members primary</sic><corr>and leadership with LAUSD.  Next witness.  Madame Chair and members, Brian Rivas</corr></choice></P>
 </SYNC>
 <SYNC Start="3509370" conf="5" cont="1" speaker_first="Brian" speaker_last="Rivas">
@@ -3734,10 +3734,10 @@ best practices out there and that we need them to be assessed </P>
 <SYNC Start="3661830" conf="3" cont="0" speaker_first="-" speaker_last="Martinez">
 <P Class="ENUSCC"><choice><sic>Governor martinez los angeles unified school district and support.</sic><corr>Martinez of Los Angeles Unified School District in support.</corr></choice></P>
 </SYNC>
-<SYNC Start="3666380" conf="5" cont="0" speaker_first="-" speaker_last="Chair">
+<SYNC Start="3666380" conf="5" cont="0" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC"><choice><sic>Thank you very much any other witnesses in support of the</sic><corr /></choice></P>
 </SYNC>
-<SYNC Start="3671940" conf="5" cont="1" speaker_first="-" speaker_last="Chair">
+<SYNC Start="3671940" conf="5" cont="1" speaker_first="Julia" speaker_last="Brownley">
 <P Class="ENUSCC"><choice><sic>_this is an opposition?</sic><corr>Senator's bill?  Witnesses in opposition?</corr></choice></P>
 </SYNC>
 <SYNC Start="3701770" conf="5" cont="0" speaker_first="Patricia" speaker_last="Rucker">
@@ -4028,7 +4028,7 @@ best practices out there and that we need them to be assessed </P>
 <SYNC Start="4093570" conf="5" cont="1" speaker_first="Patricia" speaker_last="Rucker">
 <P Class="ENUSCC"><choice><sic>the profession I strongly urge you not to move _bill thank you thank you very</sic><corr>the profession.  I strongly urge you not to move this bill.  Thank you.  Thanky you very</corr></choice></P>
 </SYNC>
-<SYNC Start="4099212" speaker_last="-" speaker_first="Chair" conf="5" cont="0">
+<SYNC Start="4099212" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="0">
 <P Class="ENUSCC">much
 <choice>
 	<sic>next</sic>
@@ -4613,7 +4613,7 @@ you ma'am
 </choice>
 </P>
 </SYNC>
-<SYNC Start="4347260" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="4347260" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>we're</sic>
@@ -5084,7 +5084,7 @@ will use the word again </P>
 </choice>
 takes politics out of the process and let's pretend for a moment that the </P>
 </SYNC>
-<SYNC Start="4526700" speaker_last="-" speaker_first="Chair" conf="5" cont="0">
+<SYNC Start="4526700" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="0">
 <P Class="ENUSCC">preceding 
 <choice>
 	<sic>CMinor</sic>
@@ -5342,7 +5342,7 @@ a similar petition
 </choice>
 similar </P>
 </SYNC>
-<SYNC Start="4611740" speaker_last="-" speaker_first="Chair" conf="5" cont="0">
+<SYNC Start="4611740" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="0">
 <P Class="ENUSCC">
 <choice>
 	<sic>decoration thank _</sic>
@@ -5494,7 +5494,7 @@ and I </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="4674960" speaker_last="-" speaker_first="Chair" conf="5" cont="0">
+<SYNC Start="4674960" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="0">
 <P Class="ENUSCC">
 <choice>
 	<sic>_thank you very much other witnesses a in opposition name</sic>
@@ -5502,7 +5502,7 @@ and I </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="4680070" speaker_last="-" speaker_first="Chair" conf="5" cont="0">
+<SYNC Start="4680070" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="0">
 <P Class="ENUSCC">
 <choice>
 	<sic>organization and your position on the bill please certainly my name is joseph barnett I'm a</sic>
@@ -5558,14 +5558,14 @@ administrators </P>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="4712500" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="4712500" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC"><choice>
 	<sic>Thank you next witness just state your name organization </sic>
 	<corr type="grammar, punct">Thank you. Next witness just state your name, organization, </corr>
 </choice>
 </P>
 </SYNC>
-<SYNC Start="4717890" speaker_last="-" speaker_first="Chair" conf="5" cont="0">
+<SYNC Start="4717890" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="0">
 <P Class="ENUSCC">and your position on the 
 <choice>
 	<sic>bill my name is john cochran _seventh and eighth-grade </sic>
@@ -5653,7 +5653,7 @@ declaration and I have a letter for each member of the </P>
 </choice>
  of opposition to each and every one of </P>
 </SYNC>
-<SYNC Start="4768850" speaker_last="-" speaker_first="Chair" conf="5" cont="0">
+<SYNC Start="4768850" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="0">
 <P Class="ENUSCC">
 <choice>
 	<sic>_thank you sir next witness.</sic>
@@ -5734,7 +5734,7 @@ and I am a first-grade teacher </P>
 </choice></P>
 I have letters for each member of the committee. Additionally, I have a declaration
 </SYNC>
-<SYNC Start="4808230" speaker_last="-" speaker_first="Chair" conf="5" cont="0">
+<SYNC Start="4808230" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="0">
 <P Class="ENUSCC">
 <choice>
 	<sic>_UTC thank you ma'am next </sic>
@@ -5769,7 +5769,7 @@ a fifth-grade teacher </P>
  and have a declaration and letters to </P>
 
 </SYNC>
-<SYNC Start="4823530" speaker_last="-" speaker_first="Chair" conf="5" cont="=">
+<SYNC Start="4823530" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="=">
 <P Class="ENUSCC">
 <choice>
 	<sic>shipment thank you next witness?</sic>
@@ -5979,7 +5979,7 @@ and I </P>
 </choice></P>
 
 </SYNC>
-<SYNC Start="4935190" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="4935190" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">Thank you.</P>
 </SYNC>
 <SYNC Start="4937800" speaker_last="Athebury" speaker_first="Carrie" conf="5" cont="1">
@@ -6030,7 +6030,7 @@ and I </P>
 </choice> should stop there.</P>
 
 </SYNC>
-<SYNC Start="4965770" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="4965770" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">Thank you sir.</P>
 </SYNC>
 <SYNC Start="4967440" speaker_last="Henderson" speaker_first="Steve" conf="5" cont="1">
@@ -6398,7 +6398,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="5174310" speaker_last="-" speaker_first="Chair" conf="5" cont="0">
+<SYNC Start="5174310" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="0">
 <P Class="ENUSCC">
 <choice>
 	<sic>_there and thank you thank you very much any other </sic>
@@ -6406,7 +6406,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="5179050" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="5179050" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>_an opposition seen on the bill is before it's.</sic>
@@ -6414,7 +6414,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="5186540" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="5186540" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">Any questions or 
 <choice>
 	<sic>comments the most _</sic>
@@ -6646,7 +6646,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="5318340" speaker_last="-" speaker_first="Chair" conf="5" cont="0">
+<SYNC Start="5318340" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="0">
 <P Class="ENUSCC">
 <choice>
 	<sic>great thank you thank you any other questions or </sic>
@@ -6654,7 +6654,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="5322830" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="5322830" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>comments the must be canada I'm sorry mr williams and _you can?</sic>
@@ -6815,7 +6815,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="5416120" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="5416120" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>This weekend.</sic>
@@ -7267,7 +7267,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="5683160" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="5683160" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>Thank you </sic>
@@ -8367,7 +8367,7 @@ and a whistle-blower and I initiated this audit against the
 </choice> honest assessment of </P>
 
 </SYNC>
-<SYNC Start="6251300" speaker_last="-" speaker_first="Chair" conf="5" cont="0">
+<SYNC Start="6251300" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="0">
 <P Class="ENUSCC">
 <choice>
 	<sic>_thank you mr eying the mistral me on _</sic>
@@ -8743,7 +8743,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="6471340" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="6471340" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>A doctor holden.</sic>
@@ -8835,7 +8835,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="6520610" speaker_last="-" speaker_first="Chair" conf="5" cont="0">
+<SYNC Start="6520610" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="0">
 <P Class="ENUSCC">
 <choice>
 	<sic>Thank you thank you any other </sic>
@@ -8843,7 +8843,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="6523210" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="6523210" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>comments I think I'd like to make a comment and then you can clothes _</sic>
@@ -8851,7 +8851,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="6530300" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="6530300" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>_to don't have a questions</sic>
@@ -8859,7 +8859,7 @@ and a whistle-blower and I initiated this audit against the
 </choice> I think I know </P>
 
 </SYNC>
-<SYNC Start="6533750" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="6533750" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>that still as well as I've known any of my bills and if </sic>
@@ -8867,7 +8867,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="6538080" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="6538080" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>_through the legislature I do believe the bill is very nearly </sic>
@@ -8875,7 +8875,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="6543640" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="6543640" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>_for a teacher or any other certified a personnel </sic>
@@ -8883,7 +8883,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="6549210" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="6549210" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>with the school district who and the very rare circumstance </sic>
@@ -8891,7 +8891,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="6554940" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="6554940" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>_who sexually abuse a child or if you abuses </sic>
@@ -8899,7 +8899,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="6558940" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="6558940" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>a children</sic>
@@ -8907,7 +8907,7 @@ and a whistle-blower and I initiated this audit against the
 </choice> through a violent act or through neglect </P>
 
 </SYNC>
-<SYNC Start="6563090" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="6563090" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">or who engages with students with illegal 
 <choice>
 	<sic>drugs this</sic>
@@ -8915,7 +8915,7 @@ and a whistle-blower and I initiated this audit against the
 </choice> is the definition </P>
 
 </SYNC>
-<SYNC Start="6568000" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="6568000" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>_in this bill a very nero a happens</sic>
@@ -8923,7 +8923,7 @@ and a whistle-blower and I initiated this audit against the
 </choice> in </P>
 
 </SYNC>
-<SYNC Start="6572590" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="6572590" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">>a very rare set of circumstances
 <choice>
 	<sic> I</sic>
@@ -8931,7 +8931,7 @@ and a whistle-blower and I initiated this audit against the
 </choice> certainly </P>
 
 </SYNC>
-<SYNC Start="6579040" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="6579040" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>_net with the author in my office and wanted _</sic>
@@ -8939,7 +8939,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="6582670" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="6582670" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>_author to but except amendments that we discussed but</sic>
@@ -8947,7 +8947,7 @@ and a whistle-blower and I initiated this audit against the
 </choice> today I'm going </P>
 
 </SYNC>
-<SYNC Start="6587610" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="6587610" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>to hear on the _of this _will give school districts from some</sic>
@@ -8955,7 +8955,7 @@ and a whistle-blower and I initiated this audit against the
 </choice> tools </P>
 
 </SYNC>
-<SYNC Start="6592950" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="6592950" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>and</sic>
@@ -8963,7 +8963,7 @@ and a whistle-blower and I initiated this audit against the
 </choice> their toolbox to address the very rare and unspeakable acts that </P>
 
 </SYNC>
-<SYNC Start="6597720" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="6597720" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>_a occur in the future and, </sic>
@@ -8971,7 +8971,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="6600980" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="6600980" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">we'll make it more definitive and maybe a little bit more efficient
 <choice>
 	<sic> and, </sic>
@@ -8979,7 +8979,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="6605860" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="6605860" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">at the same time hopefully ensure due process
 <choice>
 	<sic> so </sic>
@@ -8987,7 +8987,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="6610180" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="6610180" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">I will support the bill today but I don't know if 
 <choice>
 	<sic>_votes are here but, </sic>
@@ -8995,7 +8995,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="6615530" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="6615530" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>I think the I </sic>
@@ -9003,7 +9003,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="6617740" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="6617740" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>_senator and you want to stakeholders _</sic>
@@ -9011,11 +9011,11 @@ and a whistle-blower and I initiated this audit against the
 </choice>commit yourselves </P>
 
 </SYNC>
-<SYNC Start="6622840" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="6622840" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">to improving upon this bill to ensure that there </P>
 	
 </SYNC>
-<SYNC Start="6629170" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="6629170" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>Absolute certainty that the measurable strike right now </sic>
@@ -9023,7 +9023,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="6632170" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="6632170" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>_when these horrendous actions apr to </sic>
@@ -9031,7 +9031,7 @@ and a whistle-blower and I initiated this audit against the
 </choice>protect </P>
 
 </SYNC>
-<SYNC Start="6637510" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="6637510" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">children first and foremost
 <choice>
 	<sic> and,</sic>
@@ -9039,7 +9039,7 @@ and a whistle-blower and I initiated this audit against the
 </choice> to ensure the due process of teachers </P>
 
 </SYNC>
-<SYNC Start="6642570" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="6642570" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">is not taken away 
 <choice>
 	<sic>when?</sic>
@@ -9047,7 +9047,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="6645040" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="6645040" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>Fall allegations are charges </sic>
@@ -9055,7 +9055,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="6647620" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="6647620" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">that could
 <choice>
 	<sic> and will most likely sometime in the future </sic>
@@ -9063,7 +9063,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="6652010" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="6652010" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>happen but,</sic>
@@ -9071,7 +9071,7 @@ and a whistle-blower and I initiated this audit against the
 </choice> today I am a willing to </P>
 
 </SYNC>
-<SYNC Start="6657680" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="6657680" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">support the bill as you have presented 
 <choice>
 	<sic>and I will let you _</sic>
@@ -9855,7 +9855,7 @@ and a whistle-blower and I initiated this audit against the
 </choice> I respectfully </P>
 
 </SYNC>
-<SYNC Start="7085140" speaker_last="-" speaker_first="Chair" conf="5" cont="0">
+<SYNC Start="7085140" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="0">
 <P Class="ENUSCC">
 <choice>
 	<sic>ask _thank you very much thank you center and is _</sic>
@@ -9863,7 +9863,7 @@ and a whistle-blower and I initiated this audit against the
 </choice>motion on the bill? </P>
 
 </SYNC>
-<SYNC Start="7090490" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="7090490" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>_like doctor haldeman second by mr _so, </sic>
@@ -9871,7 +9871,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="7095670" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="7095670" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">there's a motion
 <choice>
 	<sic> in a second emotion is a </sic>
@@ -9879,7 +9879,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="7099670" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="7099670" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>_path amended to the appropriations committee _caldwell </sic>
@@ -9927,7 +9927,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="7132280" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="7132280" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>It has _to leave your own bill on-call messengers.</sic>
@@ -9935,7 +9935,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="7138660" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="7138660" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>Thank you and, now we moved to.</sic>
@@ -9943,7 +9943,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="7142190" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="7142190" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>_walters bill.</sic>
@@ -9951,7 +9951,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="7146530" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="7146530" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>No, or corbett I'm sorry excuse me _corbett still _</sic>
@@ -9959,7 +9959,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="7151360" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="7151360" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>you </sic>
@@ -9967,7 +9967,7 @@ and a whistle-blower and I initiated this audit against the
 </choice>know. </P>
 
 </SYNC>
-<SYNC Start="7157900" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="7157900" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>This _welcome _twelve _BTwelve.</sic>
@@ -10327,7 +10327,7 @@ and a whistle-blower and I initiated this audit against the
 </choice>so obviously </P>
 
 </SYNC>
-<SYNC Start="7356280" speaker_last="-" speaker_first="Chair" conf="5" cont="0">
+<SYNC Start="7356280" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="0">
 <P Class="ENUSCC">
 <choice>
 	<sic>_for the measure very good other witnesses in support of senator </sic>
@@ -10343,7 +10343,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="7365030" speaker_last="-" speaker_first="Chair" conf="5" cont="0">
+<SYNC Start="7365030" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="0">
 <P Class="ENUSCC">
 <choice>
 	<sic>_sport very good any other witnesses.</sic>
@@ -10351,7 +10351,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="7369320" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="7369320" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">Witnesses in 
 <choice>
 	<sic>opposition.</sic>
@@ -10359,7 +10359,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="7373980" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="7373980" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">Seeing none
 <choice>
 	<sic> of the bill is before _is _motion on center corporates bill.</sic>
@@ -10367,7 +10367,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="7380550" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="7380550" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>Moved _carter second by _any questions </sic>
@@ -10375,7 +10375,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="7385030" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="7385030" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">or comments from members
 <choice>
 	<sic> well </sic>
@@ -10383,7 +10383,7 @@ and a whistle-blower and I initiated this audit against the
 </choice>I want to thank you for your leadership </P>
 
 </SYNC>
-<SYNC Start="7389830" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="7389830" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>_in this area because you have been a stall warts</sic>
@@ -10391,7 +10391,7 @@ and a whistle-blower and I initiated this audit against the
 </choice> leader in </P>
 
 </SYNC>
-<SYNC Start="7394780" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="7394780" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>the area for very long-time so thank you very much for that _</sic>
@@ -10399,7 +10399,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="7399740" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="7399740" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>_doesn't seem to be a any questions or comments all like you to close </sic>
@@ -10423,7 +10423,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="7414970" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="7414970" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>do passes amended to appropriations bill secretary caldwell </sic>
@@ -10479,7 +10479,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="7441150" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="7441150" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>_your bill is out and now you will present senator hancock _</sic>
@@ -10539,7 +10539,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="7477510" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="7477510" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>_very good first witness and support thank you good afternoon </sic>
@@ -10651,7 +10651,7 @@ and a whistle-blower and I initiated this audit against the
 </choice> you. </P>
 
 </SYNC>
-<SYNC Start="7532590" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="7532590" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>Thank you other witnesses and support.</sic>
@@ -10659,7 +10659,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="7537580" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="7537580" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">One clarification I wanted to make
 <choice>
 	<sic> </sic>
@@ -10667,7 +10667,7 @@ and a whistle-blower and I initiated this audit against the
 </choice>I </P>
 
 </SYNC>
-<SYNC Start="7539990"  speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="7539990"  speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">believe the author has accepted the amendment that would require
 <choice>
 	<sic> _</sic>
@@ -10747,11 +10747,11 @@ and a whistle-blower and I initiated this audit against the
 </choice> support.</P>
 
 </SYNC>
-<SYNC Start="7586380" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="7586380" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">Very good.</P>
 	
 </SYNC>
-<SYNC Start="7589430" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="7589430" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>V any witnesses and opposition not seen any </sic>
@@ -10759,7 +10759,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="7593390" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="7593390" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>_so the item is before us comments questions their motion.</sic>
@@ -10767,7 +10767,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="7600050" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="7600050" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>This carter mr anthony make a motion on the spell </sic>
@@ -10775,7 +10775,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="7602490" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="7602490" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>_moves by mr _and second by this carter</sic>
@@ -10783,7 +10783,7 @@ and a whistle-blower and I initiated this audit against the
 </choice> very good. </P>
 
 </SYNC>
-<SYNC Start="7609280" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="7609280" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>No, questions or comments _you for presenting _</sic>
@@ -10791,7 +10791,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="7613980" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="7613980" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>_bill it's a it's a it's a good bill and</sic>
@@ -10807,7 +10807,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="7623830" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="7623830" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>Very good _just passes mended to the appropriations committee will </sic>
@@ -10815,7 +10815,7 @@ and a whistle-blower and I initiated this audit against the
 </choice></P>
 
 </SYNC>
-<SYNC Start="7627900" speaker_last="-" speaker_first="Chair" conf="5" cont="1">
+<SYNC Start="7627900" speaker_last="Julia" speaker_first="Brownley" conf="5" cont="1">
 <P Class="ENUSCC">
 <choice>
 	<sic>secretary caldwell family my family I nor b.</sic>
