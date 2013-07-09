@@ -1,0 +1,46 @@
+@(items: List[_ <: models.Listable])
+
+<!DOCTYPE HTML>
+<html lang="en">
+  
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=" media="screen" rel="stylesheet" type="text/css" />
+    <link href="@routes.Assets.at("stylesheets/bootstrap.css")" media="screen" rel="stylesheet" type="text/css" />
+    <link href="@routes.Assets.at("stylesheets/bootstrap-responsive.css")" media="screen" rel="stylesheet" type="text/css" />
+    <link href="@routes.Assets.at("stylesheets/common.css")" media="screen" rel="stylesheet" type="text/css" />
+    <link href="@routes.Assets.at("stylesheets/fontawesome.css")" media="screen" rel="stylesheet" type="text/css" />
+    <link href="@routes.Assets.at("stylesheets/project.css")" media="screen" rel="stylesheet" type="text/css" />
+    <link href="@routes.Assets.at("stylesheets/search-results.css")" media="screen" rel="stylesheet" type="text/css" />
+    <!-- Typekit fonts require an account and a kit containing the fonts used. see https://typekit.com/plans for details. <script type="text/javascript" src="//use.typekit.net/YOUR_KIT_ID.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+-->
+    <title></title>
+  </head>
+  
+  <body>
+    <div class="container-fluid container-fluid-1">
+      <div class="row-fluid">
+        <span class="span12">
+          <form class="form-inline" action="">
+            <input class="textinput span8 search-query" type="text" name="" placeholder="">
+            <button class="btn btn-primary">Search</button>
+          </form>
+        </span>
+      </div>
+    </div>
+    <div class="container-fluid">
+      @for(item <- items) {
+      <div class="row-fluid">
+        <span class="span12">
+          <a class="dom-link dom-link-1" href="@item.getLink()">@item.getHeading()</a>
+          <p>@item.getDescription().substring(0, Math.min(item.getDescription().length(), 400)) </p>
+          <a class="dom-link" href="#"></a>
+        </span>
+      </div>
+      }
+    </div>
+  </body>
+
+</html>

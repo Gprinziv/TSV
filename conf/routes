@@ -1,0 +1,28 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# ~~~~
+
+# Home page
+GET     /                           controllers.Application.index()
+
+# Bill pages
+GET		/bill						controllers.Bill.list()
+GET     /bill/:id                   controllers.Bill.show(id: String, vid=null)
+GET		/bill/:id/:vid              controllers.Bill.show(id: String, vid: String)
+
+# Hearing page
+GET		/hearing					controllers.Hearing.list()
+GET		/hearing/:id				controllers.Hearing.show(id: String)
+
+# Person page
+GET		/person						controllers.Person.list()
+GET		/person/:id					controllers.Person.show(id: Integer)
+
+# Search page
+GET		/search						controllers.Search.search(query: String)
+
+# Indexer
+GET		/indexer					controllers.Search.index()
+
+# Map static resources from the /public folder to the /assets URL path
+GET     /assets/*file               controllers.Assets.at(path="/public", file)
