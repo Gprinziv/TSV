@@ -162,7 +162,7 @@ public class Legislator implements Listable {
    @Override
    public String getDescription() {
       // TODO Auto-generated method stub
-      return null;
+      return "";
    }
    
    public String getLink() {

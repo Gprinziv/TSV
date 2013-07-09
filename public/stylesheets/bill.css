@@ -50,10 +50,10 @@
  }
  
  .insertion {
- 	color: green;
  }
  
  .deletion {
+   display: none;
  	color: red;
  	text-decoration: line-through;
  }

@@ -2,66 +2,60 @@
 
 <!DOCTYPE HTML>
 <html lang="en">
-  
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link href="https://fonts.googleapis.com/css?family=" media="screen" rel="stylesheet" type="text/css" />
-    <link href="@routes.Assets.at("stylesheets/bootstrap.css")" media="screen" rel="stylesheet" type="text/css" />
-    <link href="@routes.Assets.at("stylesheets/bootstrap-responsive.css")" media="screen" rel="stylesheet" type="text/css" />
-    <link href="@routes.Assets.at("stylesheets/common.css")" media="screen" rel="stylesheet" type="text/css" />
-    <link href="@routes.Assets.at("stylesheets/fontawesome.css")" media="screen" rel="stylesheet" type="text/css" />
-    <link href="@routes.Assets.at("stylesheets/project.css")" media="screen" rel="stylesheet" type="text/css" />
-    <link href="@routes.Assets.at("stylesheets/bill.css")" media="screen" rel="stylesheet" type="text/css" />
-    <!-- Typekit fonts require an account and a kit containing the fonts used. see https://typekit.com/plans for details. <script type="text/javascript" src="//use.typekit.net/YOUR_KIT_ID.js"></script>
-  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
--->
-    <title>@bill.getName()</title>
-  </head>
-  
-<body>
-    <div class="container-fluid container-fluid-1">
-      <div class="row-fluid">
-        <span class="span12">
-          <form class="form-inline" action="">
-            <input class="textinput span8 search-query" type="text" name="" value="" placeholder="">
-            <button class="btn btn-primary">Search</button>
-          </form>
-        </span>
+
+   <head>
+      <meta charset="utf-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+      <link href="https://fonts.googleapis.com/css?family=" media="screen" rel="stylesheet" type="text/css" />
+      <link href="@routes.Assets.at("stylesheets/bootstrap.css")" media="screen" rel="stylesheet" type="text/css" />
+      <link href="@routes.Assets.at("stylesheets/bootstrap-responsive.css")" media="screen" rel="stylesheet" type="text/css" />
+      <link href="@routes.Assets.at("stylesheets/common.css")" media="screen" rel="stylesheet" type="text/css" />
+      <link href="@routes.Assets.at("stylesheets/fontawesome.css")" media="screen" rel="stylesheet" type="text/css" />
+      <link href="@routes.Assets.at("stylesheets/project.css")" media="screen" rel="stylesheet" type="text/css" />
+      <link href="@routes.Assets.at("stylesheets/bill.css")" media="screen" rel="stylesheet" type="text/css" />
+      <!-- Typekit fonts require an account and a kit containing the fonts used. see https://typekit.com/plans for details. <script type="text/javascript" src="//use.typekit.net/YOUR_KIT_ID.js"></script>
+      <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+      -->
+      <title>@bill.getName()</title>
+   </head>
+
+   <body>
+      <div class="container-fluid container-fluid-1">
+         <div class="row-fluid">
+            <span class="span12">
+               <form class="form-inline" action="/search">
+                  <input class="textinput span8 search-query" type="text" name="query" value="" placeholder="Search">
+                  <button class="btn btn-primary">Search</button>
+               </form>
+            </span>
+         </div>
       </div>
-    </div>
-    <div class="container-fluid">
-      <div class="row-fluid">
-        <span class="span12">
-          <div class="container-fluid">
-            <h1 class="dom-heading">@bill.getName()</h1>
-            <div class="row-fluid">
-              <span class="span12">
-              	<div class="digest-container">
-	                <h3 class="heading">Summary</h3>
-	                <div class="digest">
-	                @Html(current_version.getDigest())
-	                </div>
-	                <a class="dom-link" onClick="$('.bill-container').css('display', 'block')">See Full Text...</a>
-                </div>
-                <div class="bill-container">
-	                <h3 class="heading" id="bill-header">Bill Text</h3>
-	                <div class="bill-content">
-	                @Html(current_version.getText())
-	                </div>
-                </div>
-                <h3 class="heading">Authors</h3>
-                <ul>
-                	<li><a class="dom-link" href="#">Sam Blakeslee</a></li>
-                	<li><a class="dom-link" href="#">Andrew Guenther</a></li>
-                	<li><a class="dom-link" href="#">Kim Paterson</a></li>
-                </ul>
-              </span>
-            </div>
-          </div>
-        </span>
+      <div class="container-fluid">
+         <div class="row-fluid">
+            <span class="span12">
+               <div class="container-fluid">
+                  <h1 class="dom-heading">@bill.getName()</h1>
+                  <div class="row-fluid">
+                     <span class="span12">
+                        <div class="digest-container">
+                           <h3 class="heading">Summary</h3>
+                           <div class="digest">
+                              @Html(current_version.getDigest())
+                           </div>
+                           <a class="dom-link" onClick="$('.bill-container').css('display', 'block')">See Full Text...</a>
+                        </div>
+                        <div class="bill-container">
+                           <h3 class="heading" id="bill-header">Bill Text</h3>
+                           <div class="bill-content">
+                              @Html(current_version.getText())
+                           </div>
+                        </div>
+                     </span>
+                  </div>
+               </div>
+            </span>
+         </div>
       </div>
-    </div>
-  </body>
-  <script src="@routes.Assets.at("javascripts/jquery-1.9.0.min.js")"></script>
+   </body>
+   <script src="@routes.Assets.at("javascripts/jquery-1.9.0.min.js")"></script>
 </html>

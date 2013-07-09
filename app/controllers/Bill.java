@@ -12,7 +12,7 @@ public class Bill extends Controller {
    public static Result list() {
       List<? extends Listable> bills = models.Bill.getMany(0, 10);
       
-      return ok(browse.render(bills));
+      return ok(browse.render(bills, null, "Bills", null));
    }
 
    public static Result show(String id, String vid) {      

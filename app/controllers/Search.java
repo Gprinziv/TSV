@@ -19,6 +19,10 @@ public class Search extends Controller {
       String index = "data/indexer/indexes/legndx";
       String fields[] = {"heading", "description", "link"};
       List<SearchResult> results = new ArrayList<SearchResult>();
+
+      if (query == "") {
+         return ok(browse.render(results, null, null, null));
+      }
       
       try {
          Searcher newSearch = new Searcher(fields, index);
@@ -33,7 +37,7 @@ public class Search extends Controller {
          System.exit(1);
       }
       
-      return ok(browse.render(results));
+      return ok(browse.render(results, query, null, null));
    }
 
    public static Result transSearch(String query) {
@@ -41,6 +45,10 @@ public class Search extends Controller {
       String fields[] = {"speakerFirst", "speakerLast", "timeStart", "utterance"};
       List<Listable> results = new ArrayList<Listable>();
       
+      if (query == "") {
+         return ok(browse.render(results, null, null, null));
+      }
+
       try {
          Searcher newSearch = new Searcher(fields, index);
          results = newSearch.performTransSearch(query);
@@ -54,7 +62,7 @@ public class Search extends Controller {
          System.exit(1);
       }
       
-      return ok(browse.render(results));
+      return ok(browse.render(results, query, "Transcripts", "/transcript"));
    }
    
    public static Result index() {

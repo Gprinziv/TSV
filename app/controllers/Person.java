@@ -10,7 +10,7 @@ public class Person extends Controller {
    public static Result list() {
       List<? extends models.Listable> people = models.Legislator.getMany(0, 10);
       
-      return ok(browse.render(people));
+      return ok(browse.render(people, null, "People", null));
    }
 
    public static Result show(Integer id) {

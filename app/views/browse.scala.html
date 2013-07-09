@@ -1,4 +1,4 @@
-@(items: List[_ <: models.Listable])
+@(items: List[_ <: models.Listable], query: String, sType: String, sUrl: String)
 
 <!DOCTYPE HTML>
 <html lang="en">
@@ -23,8 +23,8 @@
     <div class="container-fluid container-fluid-1">
       <div class="row-fluid">
         <span class="span12">
-          <form class="form-inline" action="">
-            <input class="textinput span8 search-query" type="text" name="" placeholder="">
+          <form class="form-inline" action="/search@(sUrl)">
+            <input class="textinput span8 search-query" type="text" name="query" value="@query" placeholder="Search @(sType)">
             <button class="btn btn-primary">Search</button>
           </form>
         </span>
@@ -34,13 +34,22 @@
       @for(item <- items) {
       <div class="row-fluid">
         <span class="span12">
-          <a class="dom-link dom-link-1" href="@item.getLink()">@item.getHeading()</a>
-          <p>@item.getDescription().substring(0, Math.min(item.getDescription().length(), 400)) </p>
+          <a class="dom-link dom-link-1 link" href="@item.getLink()">@item.getHeading()</a>
+          <p class="result">@item.getDescription().substring(0, Math.min(item.getDescription().length(), 400)) </p>
           <a class="dom-link" href="#"></a>
         </span>
       </div>
       }
     </div>
   </body>
-
+  <script src="@routes.Assets.at("javascripts/jquery-1.9.0.min.js")" type="text/javascript"></script>
+  @if(query != null) {
+  <script>
+     $(".result, .link").each(function (idx, elem) {
+        htm = $(this).html()
+        htm = htm.replace(/(@query)/gi, "<strong>$1</strong>")
+        $(this).html(htm)
+     });
+  </script>
+  }
 </html>
