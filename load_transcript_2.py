@@ -59,7 +59,7 @@ for (first, last, pid) in get:
 transcript = etree.parse(sys.argv[1])
 utterances = []
 
-for utterance_element in transcript.xpath("BODY/SYNC")
+for utterance_element in transcript.xpath("BODY/P"):
    speaker_first = utterance_element.xpath('@first')
    speaker_last  = utterance_element.xpath('@last')
    #Added xpaths for the begenning and end
@@ -70,8 +70,8 @@ for utterance_element in transcript.xpath("BODY/SYNC")
    first = speaker_first[0] if len(speaker_first) > 0 else ""
    last  = speaker_last[0]  if len(speaker_last)  > 0 else ""
    #Begin and end added
-   begin = Begin[0]         if len(Begin)         > 0 else -1
-   end   = End[0]           if len(End)           > 0 else -1
+   begin = Begin[0]         if len(Begin)         > 0 else ""
+   end   = End[0]           if len(End)           > 0 else ""
    cont  = cont[0]          if len(cont)          > 0 else '0'
 
    text = ' '.join(utterance_element.xpath('descendant::*[name() != "sic"]/text()'))
