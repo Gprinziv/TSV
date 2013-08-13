@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xml:lang="en-us" xmlns="http://www.w3.org/2006/10/ttaf1">
+  <head>
+    <metadata>
+      <ttm:title xmlns:ttm="http://www.w3.org/2006/10/ttaf1#metadata" />
+      <ttm:desc xmlns:ttm="http://www.w3.org/2006/10/ttaf1#metadata" />
+      <ttm:copyright xmlns:ttm="http://www.w3.org/2006/10/ttaf1#metadata" />
+    </metadata>
+    <styling>
+      <p5:style xml:id="layout1Style" p6:extent="100% 15%" p6:lineHeight="16px" p6:origin="0% 85%" p6:fontFamily="proportionalArial" p6:fontSize="16px" p6:textAlign="center" p6:backgroundColor="rgba(0,0,0,160)" p6:displayAlign="center" p6:color="white" p6:padding="0px 0px 0px 0px" xmlns:p6="http://www.w3.org/2006/10/ttaf1#styling" xmlns:p5="http://www.w3.org/2006/10/ttaf1" />
+      <p5:style xml:id="layout2Style" p6:extent="90% 90%" p6:fontFamily="proportionalArial" p6:fontSize="15px" p6:textAlign="center" p6:backgroundColor="rgba(0,0,0,0)" p6:displayAlign="center" p6:color="white" xmlns:p6="http://www.w3.org/2006/10/ttaf1#styling" xmlns:p5="http://www.w3.org/2006/10/ttaf1" />
+    </styling>
+    <layout>
+      <p5:region xml:id="layout1" p5:style="layout1Style" p6:zIndex="1" xmlns:p6="http://www.w3.org/2006/10/ttaf1#styling" xmlns:p5="http://www.w3.org/2006/10/ttaf1" />
+    </layout>
+  </head>
+  <body>
+    <div style="layout2Style">
+      <p id="f6add3aa-90d7-4481-afbc-0cf8ae7540f6" region="layout1" begin="0:00:00.05" end="0:00:03.55" last="Norby" first="Chris" cont="0">[Automatic Transcript Recognizability 66%]<br/>
+<choice><sic>But, instr _bill nine-ninety threes well _</sic>
+<corr>Could Mr. Chair. SB 993 as well?</corr></choice></p>
+
+<p id="ce214753-3e08-4dda-8248-ab0a12f32a0c" region="layout1" begin="0:00:03.55" end="0:00:08.54" last="Norby" first="Chris" cont="1">[Automatic Transcript Recognizability 55%]<br/>
+<choice><sic>_daily on boy it's okay _sheena </sic>
+<corr>For Senator De Leon? Go ahead. Okay.</corr></choice></p>
+
+<p id="f6b126c4-0139-46e1-9e41-59e57b38ec1c" region="layout1" begin="0:00:08.54" end="0:00:12.58" last="Wright" first="Rod" cont="0">[Automatic Transcript Recognizability 86%]<br/>
+<choice><sic>_on still is a still that was not create a mandate</sic>
+<corr>Senator De Leon's bill is a bill that would create a mandate</corr></choice></p>
+
+<p id="06585a4c-66c8-4cc4-9777-15702d69f5d1" region="layout1" begin="0:00:12.58" end="0:00:17.66" last="Wright" first="Rod" cont="1">[Automatic Transcript Recognizability 90%]<br/>
+<choice><sic>but it would allow schools to have a programs a study of course</sic>
+<corr>but it would allow schools to have a program of study, a course</corr></choice></p>
+
+<p id="6fbe906c-3a5b-4088-90d2-abd8a9424214" region="layout1" begin="0:00:17.66" end="0:00:22.8" last="Wright" first="Rod" cont="1">[Automatic Transcript Recognizability 97%]<br/>
+<choice><sic>a study on the for several program some of you may be aware</sic>
+<corr>of study, on the Bracero Program. Some of you may be aware</corr></choice></p>
+
+<p id="7ea8e863-5803-4a54-975f-5f4e621541f8" region="layout1" begin="0:00:22.8" end="0:00:28.24" last="Wright" first="Rod" cont="1">[Automatic Transcript Recognizability 75%]<br/>
+<choice><sic>_a california in particular right about the time of world war _</sic>
+<corr>in California in particular, right about the time of World War II,</corr></choice></p>
+
+<p id="193a2668-769c-472a-9344-1f300a0cba6b" region="layout1" begin="0:00:28.24" end="0:00:31.81" last="Wright" first="Rod" cont="1">[Automatic Transcript Recognizability 85%]<br/>
+<choice><sic>_several program was hannibal part of how we did agriculture</sic>
+<corr>the Bracero Program was an integral part of how we did agriculture.</corr></choice></p>
+
+<p id="8380e834-e34f-4e1c-8513-7635599c0cda" region="layout1" begin="0:00:31.81" end="0:00:36.53" last="Wright" first="Rod" cont="1">[Automatic Transcript Recognizability 92%]<br/>
+<choice><sic>as people moved into a part of the war effort there was some concerns as to whether or not </sic>
+<corr>As people moved into a part of the war effort there was some concerns as to whether or not </corr></choice></p>
+
+<p id="e3d46779-bc69-4fba-97e4-cbef72627e01" region="layout1" begin="0:00:36.53" end="0:00:41.53" last="Wright" first="Rod" cont="1">[Automatic Transcript Recognizability 96%]<br/>
+<choice><sic>california would be able to continue to supply food and other material that we</sic>
+<corr>California would be able to continue to supply food and other material that we</corr></choice></p>
+
+<p id="2838c69e-100c-436a-a350-026fb4fc3e28" region="layout1" begin="0:00:41.53" end="0:00:46.73" last="Wright" first="Rod" cont="1">[Automatic Transcript Recognizability 92%]<br/>
+<choice><sic>were providing at the time divisional program was instrumental in that number people</sic>
+<corr>were providing at the time. The Bracero Program was instrumental in that number of people</corr></choice></p>
+
+<p id="236c9d53-6f44-4c96-92ad-56f9de1ba9f3" region="layout1" begin="0:00:46.73" end="0:00:49.17" last="Wright" first="Rod" cont="1">[Automatic Transcript Recognizability 86%]<br/>
+<choice><sic>are unaware of what took place this would be a</sic>
+<corr>are unaware of what took place. This would be a</corr></choice></p>
+
+<p id="44af3fee-3d4b-4865-b5ec-acfae5bedc92" region="layout1" begin="0:00:49.17" end="0:00:51.74" last="Wright" first="Rod" cont="1">[Automatic Transcript Recognizability 77%]<br/>
+<choice><sic>_study _mandate and not</sic>
+<corr>curriculum of study, not a mandate and not</corr></choice></p>
+
+<p id="c1c7fc65-4484-496d-b0d9-5493b8b5714c" region="layout1" begin="0:00:51.74" end="0:00:56.45" last="Wright" first="Rod" cont="1">[Automatic Transcript Recognizability 82%]<br/>
+<choice><sic>_but that schools to look at having a curriculum a study on </sic>
+<corr>a requirement, but that schools to look at having a curriculum a study on</corr></choice></p>
+
+<p id="d553d7da-5453-487f-96a5-f64fbf7838c1" region="layout1" begin="0:00:56.45" end="0:01:00.53" last="Wright" first="Rod" cont="1">[Automatic Transcript Recognizability 79%]<br/>
+<choice><sic>_several program there's no appropriation because _he obviously </sic>
+<corr>the Bracero Program. There's no appropriation because it would be obviously </corr></choice></p>
+
+<p id="4fbc6aae-a82d-4d8c-b053-1eb1aa72d604" region="layout1" begin="0:01:00.53" end="0:01:05.13" last="Wright" first="Rod" cont="1">[Automatic Transcript Recognizability 88%]<br/>
+<choice><sic>at the discretion of that school district without a specific appropriation _</sic>
+<corr>at the discretion of that school district without a specific appropriation, nor would there be a mandate if there were to occur.</corr></choice></p>
+
+<p id="0c8ee5dd-1a5d-4594-bdd4-24e9dc61befd" region="layout1" begin="0:01:05.13" end="0:01:10.12" last="Wright" first="Rod" cont="1">[Automatic Transcript Recognizability 71%]<br/>
+<choice><sic>_at _great anyway favor speaking out for the bills </sic>
+<corr>Great. Anyone in favor of speaking for the bill sir?</corr></choice></p>
+
+<p id="1d9648ba-56e0-4493-a237-3567fc0e33e2" region="layout1" begin="0:01:10.12" end="0:01:12.89" last="Wright" first="Rod" cont="1">[Automatic Transcript Recognizability 81%]<br/>
+<choice><sic>or I am not sure because I got this</sic>
+<corr>I am not sure because I got this packet around two hours ago.</corr></choice></p>
+
+<p id="c95f8928-d18e-42b4-8afa-70cd44957e19" region="layout1" begin="0:01:12.89" end="0:01:17.43" last="Wright" first="Rod" cont="1">[Automatic Transcript Recognizability 77%]<br/>
+<choice><sic>_slowness accompany opposition please come forward</sic>
+<corr>Anyone in opposition please come forward.</corr></choice></p>
+
+<p id="56a52663-8ece-4ff0-a795-2ed40c3fcd6b" region="layout1" begin="0:01:17.43" end="0:01:21.69" last="Wright" first="Rod" cont="1">[Automatic Transcript Recognizability 76%]<br/>
+<choice><sic>_on questions comments from the community.</sic>
+<corr>Seeing none, questions, comments from the committee?</corr></choice></p>
+
+<p id="468963e6-2fe1-47b3-a932-da162a161dff" region="layout1" begin="0:01:21.69" end="0:01:23.09" last="Wright" first="Rod" cont="1">[Automatic Transcript Recognizability 67%]<br/>
+<choice><sic>Moved in _go ahead with your</sic>
+<corr>Moved in second go ahead with your close.</corr></choice></p>
+
+<p id="993b418d-2aac-4dac-8495-bcb2fbdd2490" region="layout1" begin="0:01:23.09" end="0:01:27.4" last="Wright" first="Rod" cont="1">[Automatic Transcript Recognizability 66%]<br/>
+<choice><sic>_I would _and I think and again I think</sic>
+<corr>Again, I would an 'I' vote. I think, and again I think,</corr></choice></p>
+
+<p id="e866aa95-1226-4a0c-bcb7-3a76cb26b22e" region="layout1" begin="0:01:27.4" end="0:01:32.27" last="Wright" first="Rod" cont="1">[Automatic Transcript Recognizability 97%]<br/>
+<choice><sic>_become important just as we look at contributions of different groups</sic>
+<corr>this becomes important just as we look at contributions of different groups.</corr></choice></p>
+
+<p id="7f8cf59c-9a45-45a7-96d7-f2db62d451f2" region="layout1" begin="0:01:32.27" end="0:01:34.77" last="Wright" first="Rod" cont="1">[Automatic Transcript Recognizability 78%]<br/>
+<choice><sic>california and disrespected unique</sic>
+<corr>California in this respect is unique</corr></choice></p>
+
+<p id="c57b1fac-e837-4149-8efb-5015ac6f1704" region="layout1" begin="0:01:34.77" end="0:01:38.59" last="Wright" first="Rod" cont="1">[Automatic Transcript Recognizability 81%]<br/>
+<choice><sic>because agriculture was such an integral part of what made _</sic>
+<corr>because agriculture was such an integral part of what made this</corr></choice></p>
+
+<p id="0be3b0d7-12b0-453a-a68f-4ad87d5c9003" region="layout1" begin="0:01:38.59" end="0:01:43.81" last="Wright" first="Rod" cont="1">[Automatic Transcript Recognizability 74%]<br/>
+<choice><sic>_and tercel program was instrumental part of that particularly as a part of the</sic>
+<corr>state grow and Bracero Program was instrumental part of that particularly as a part of the</corr></choice></p>
+
+<p id="a75afde3-e384-4a74-8cf7-4093bdc9e819" region="layout1" begin="0:01:43.81" end="0:01:47.93" last="Wright" first="Rod" cont="1">[Automatic Transcript Recognizability 87%]<br/>
+<choice><sic>_leopard were often the connection isn't made between</sic>
+<corr>World War II effort were often the connection isn't made between</corr></choice></p>
+
+<p id="2c0432dd-4cb2-40ec-bf2f-087606177751" region="layout1" begin="0:01:47.93" end="0:01:50.57" last="Wright" first="Rod" cont="1">[Automatic Transcript Recognizability 75%]<br/>
+<choice><sic>the several program and world war two _</sic>
+<corr>the Bracerp Program and World War II and</corr></choice></p>
+
+<p id="7962e57b-5e62-4ba9-b479-bf14e177757b" region="layout1" begin="0:01:50.57" end="0:01:55.6" last="Wright" first="Rod" cont="1">[Automatic Transcript Recognizability 70%]<br/>
+<choice><sic>_part that played in the _I would _when I _you I've seen a lot of these</sic>
+<corr>the instrumental part that played in the growth. I would ask for an 'I' Mr. Chair. I've seen a lot of these</corr></choice></p>
+
+<p id="387c1250-acaa-4b5f-a451-038781965e98" region="layout1" begin="0:01:55.6" end="0:01:59.1" last="Norby" first="Chris" cont="0">[Automatic Transcript Recognizability 92%]<br/>
+<choice><sic>bills as have committee members from commemorating ronald reagan</sic>
+<corr>bills as have committee members from commemorating Ronald Reagan</corr></choice></p>
+
+<p id="892a6872-c788-4691-9010-2cf784ddccf8" region="layout1" begin="0:01:59.1" end="0:02:02.94" last="Norby" first="Chris" cont="1">[Automatic Transcript Recognizability 88%]<br/>
+<choice><sic>to labor history I never support them because.</sic>
+<corr>to labor history. I never support them because.</corr></choice></p>
+
+<p id="86afd05c-8c6e-49dc-8d53-a9a0a7142ee0" region="layout1" begin="0:02:02.94" end="0:02:06.62" last="Norby" first="Chris" cont="1">[Automatic Transcript Recognizability 72%]<br/>
+<choice><sic>It seems like _doing _know _use or _sort of </sic>
+<corr>It seems like we're already doing it and don't need these. Or we're sort of</corr></choice></p>
+
+<p id="9380491c-2cb3-4f52-8b5d-960d3d90315e" region="layout1" begin="0:02:06.62" end="0:02:12.18" last="Norby" first="Chris" cont="1">[Automatic Transcript Recognizability 86%]<br/>
+<choice><sic>micro managing curriculum I have talked history _history for a large and</sic>
+<corr>micro-managing curriculum, I have taught history, US History, for a large and,</corr></choice></p>
+
+<p id="acf5b1b1-b2fb-4ebe-880b-99063bf9f87c" region="layout1" begin="0:02:12.18" end="0:02:15.23" last="Norby" first="Chris" cont="1">[Automatic Transcript Recognizability 92%]<br/>
+<choice><sic>_twenty years in high school I did teach about the</sic>
+<corr>around twenty years in high school. I did teach about the</corr></choice></p>
+
+<p id="09739e12-96f9-4235-9ae2-2be753c2e3c2" region="layout1" begin="0:02:15.23" end="0:02:18.45" last="Norby" first="Chris" cont="1">[Automatic Transcript Recognizability 72%]<br/>
+<choice><sic>_world war two I never realized</sic>
+<corr>Braceros and World War II. I never realized</corr></choice></p>
+
+<p id="fae85494-dffb-4c88-9b00-40fab1b3afba" region="layout1" begin="0:02:18.45" end="0:02:23.13" last="Norby" first="Chris" cont="1">[Automatic Transcript Recognizability 93%]<br/>
+<choice><sic>_the state legislation that didn't allow me to do it because I thought I was already a lot </sic>
+<corr>that the state legislation that didn't allow me to do it because I thought I was already allowed</corr></choice></p>
+
+<p id="251c5d9a-9b04-42f2-963d-7671014e7508" region="layout1" begin="0:02:23.13" end="0:02:29.1" last="Norby" first="Chris" cont="1">[Automatic Transcript Recognizability 90%]<br/>
+<choice><sic>too and that's why I I'm not sure what this really does doesn't what people are already allowed to do</sic>
+<corr>to do it, and that's why I'm not sure what this really does other than what people are already allowed to do.</corr></choice></p>
+
+<p id="05426fc1-a2ab-4e2a-b76d-8c4e34310723" region="layout1" begin="0:02:29.1" end="0:02:30.22" last="Norby" first="Chris" cont="1">[Automatic Transcript Recognizability 70%]<br/>
+<choice><sic>_was just.</sic>
+<corr>Which is probably why I'll lay off of it.</corr></choice></p>
+
+<p id="0934dcbf-d561-4c85-99f4-bfe0fef17338" region="layout1" begin="0:02:31.68" end="0:02:35.71" last="Wright" first="Rod" cont="0">[Automatic Transcript Recognizability 92%]<br/>
+<choice><sic>It only sets forth the ideas that you want to say that the legislature</sic>
+<corr>It only sets forth the ideas that you want to say that the legislature</corr></choice></p>
+
+<p id="a5445b8c-79df-4f1d-9434-6f26ed3580f8" region="layout1" begin="0:02:35.71" end="0:02:38.15" last="Wright" first="Rod" cont="1">[Automatic Transcript Recognizability 87%]<br/>
+<choice><sic>with like _be emphasis on the</sic>
+<corr>with like there to be emphasis on the</corr></choice></p>
+
+<p id="ac413626-fe67-442c-8704-54cec9c62f3b" region="layout1" begin="0:02:38.15" end="0:02:42.67" last="Wright" first="Rod" cont="1">[Automatic Transcript Recognizability 97%]<br/>
+<choice><sic>_program that's why it's not a mandate it's not a specific curriculum there's</sic>
+<corr>Bracero Program. That's why it's not a mandate, it's not a specific curriculum, there's</corr></choice></p>
+
+<p id="abfec06d-0e40-4bfb-b4c7-213a2aa39300" region="layout1" begin="0:02:42.67" end="0:02:47.53" last="Wright" first="Rod" cont="1">[Automatic Transcript Recognizability 99%]<br/>
+<choice><sic>no money in it but it's just to say this is something that we would like to be done so</sic>
+<corr>no money in it. But it's just to say this is something that we would like to be done so</corr></choice></p>
+
+<p id="ab0b8a68-3011-456a-aa11-4710a5e59bf6" region="layout1" begin="0:02:47.53" end="0:02:48.85" last="Wright" first="Rod" cont="1">[Automatic Transcript Recognizability 99%]<br/>
+<choice><sic>that people understood</sic>
+<corr>that people understood</corr></choice></p>
+
+<p id="22a81630-fd6d-45c9-8fcb-4b2b96f0acf4" region="layout1" begin="0:02:48.85" end="0:02:53.24" last="Wright" first="Rod" cont="1">[Automatic Transcript Recognizability 84%]<br/>
+<choice><sic>the contributions of the visceral program and the workers were involved in it so you're,</sic>
+<corr>the contributions of the Bracero Program and the workers were involved in it. So you're,</corr></choice></p>
+
+<p id="62b37db1-a17c-475e-831b-728048e68499" region="layout1" begin="0:02:53.24" end="0:02:56.82" last="Wright" first="Rod" cont="1">[Automatic Transcript Recognizability 97%]<br/>
+<choice><sic>you're, you're absolutely right schools can do this now should they</sic>
+<corr>you're, you're absolutely right. Schools can do this now, should they</corr></choice></p>
+
+<p id="b9f03968-dc68-4b46-8467-728090301472" region="layout1" begin="0:02:56.82" end="0:03:01.57" last="Wright" first="Rod" cont="1">[Automatic Transcript Recognizability 75%]<br/>
+<choice><sic>_and we would hope that more history teachers would be a _you</sic>
+<corr>choose to, and we would hope that more history teachers would be enlightened as you,</corr></choice></p>
+
+<p id="e2e4391d-9d33-4d19-9860-a4a64dac3bb0" region="layout1" begin="0:03:01.57" end="0:03:05.85" last="Norby" first="Chris" cont="0">[Automatic Transcript Recognizability 87%]<br/>
+<choice><sic>_recognizing devaluing so much time you pick and choose what </sic>
+<corr>Mr. Chair, recognizing the value. (Norby speaking) There's only so much time. You pick and choose what</corr></choice></p>
+
+<p id="78e4520d-b6f5-464b-adf6-0c4f421d041d" region="layout1" begin="0:03:05.85" end="0:03:10.75" last="Norby" first="Chris" cont="1">[Automatic Transcript Recognizability 84%]<br/>
+<choice><sic>would you teach you a and hopefully textbook goes along other comments or questions from</sic>
+<corr>you teach and hopefully textbook goes along. Other comments or questions from,</corr></choice></p>
+
+<p id="fe65bfbb-32c7-4eab-b304-97d9892e518f" region="layout1" begin="0:03:10.75" end="0:03:14.39" last="Norby" first="Chris" cont="1">[Automatic Transcript Recognizability 81%]<br/>
+<choice><sic>_from the committee if not we'll.</sic>
+<corr>from the committee. If not we'll hear the roll.</corr></choice></p>
+
+<p id="16bf310f-4843-4fdd-8302-179b1c8305b6" region="layout1" begin="0:03:14.39" end="0:03:17.29" last="Secretary" first="" cont="0">[Automatic Transcript Recognizability 67%]<br/>
+<choice><sic>Brownie _be.</sic>
+<corr>Brownley? Norbey?</corr></choice></p>
+
+<p id="8f3f6be6-9804-4a45-b87d-e97cfe7d029c" region="layout1" begin="0:03:17.29" end="0:03:20.14" end="0:03:17.29" last="Secretary" first="" cont="1">[Automatic Transcript Recognizability 72%]<br/>
+<choice><sic>Darby not _I know I mean I don't I you </sic>
+<corr>Norby not voting. Ammiano? I. Buchanan?</corr></choice></p>
+
+<p id="95aae429-527f-4793-ae9b-88d67c1a6e39" region="layout1" begin="0:03:20.14" end="0:03:26.14" end="0:03:17.29" last="Secretary" first="" cont="1">[Automatic Transcript Recognizability 75%]<br/>
+<choice><sic>_you can and I butler's carter harder _</sic>
+<corr>Buchanan I. Butler? Carter? Carter I. Eng?</corr></choice></p>
+
+<p id="e8ba901b-a048-44b3-8000-a8dcbad9e89f" region="layout1" begin="0:03:26.14" end="0:03:28.85" end="0:03:17.29" last="Secretary" first="" cont="1">[Automatic Transcript Recognizability 82%]<br/>
+<choice><sic>And, I growth.</sic>
+<corr>Eng I. Growth?</corr></choice></p>
+
+<p id="a050f4bc-0283-4aef-99f5-ba56afdb09d6" region="layout1" begin="0:03:28.85" end="0:03:31.62" end="0:03:17.29" last="Secretary" first="" cont="1">[Automatic Transcript Recognizability 96%]<br/>
+<choice><sic>_not voting haldeman,</sic>
+<corr>Growth not voting. Halderman?</corr></choice></p>
+
+<p id="54df2096-45e6-4876-a68c-e21bd57aa44c" region="layout1" begin="0:03:31.62" end="0:03:37.8" end="0:03:17.29" last="Secretary" first="" cont="1">[Automatic Transcript Recognizability 74%]<br/>
+<choice><sic>haldeman no wagner, wagner no williams, williams _</sic>
+<corr>Haldeman no. Wagner? Wagner no. Williams? Williams I.</corr></choice></p>
+
+<p id="bdba85fe-d37d-4e15-95db-08130798ca2f" region="layout1" begin="0:03:37.8" end="0:03:42.63" last="Norby" first="Chris" cont="0">[Automatic Transcript Recognizability 80%]<br/>
+<choice><sic>So, it has five-cent kj _villas on-call thank you very much</sic>
+<corr>Five votes the bill is on-call. Thank you very much.</corr></choice></p>
+
+<p id="9bab1c07-9670-4a2b-b35e-dbd03fb64cff" region="layout1" begin="0:03:42.63" end="0:03:46.45" last="Norby" first="Chris" cont="1">[Automatic Transcript Recognizability 93%]<br/>
+<choice><sic>your presentation _steinberg I believe you're ready.</sic>
+<corr>Senator Steinberg, I believe you're ready.</corr></choice></p>
+
+
+    </div>
+  </body>
+</tt>
