@@ -41,9 +41,9 @@ class Utterance:
       #The following cols in the table could have changed and might have to be updated
       #Ask Jorge about this since he's in charge of the database
       Utterance.put.execute("REPLACE INTO Utterance (date, bid, cid, pid, "
-            "time, text, first, last) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)",
+            "text, first, last, begin, end) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)",
             (sys.argv[2], sys.argv[3], sys.argv[4],
-               self.pid, self.begin, self.end, self.text, self.first, self.last))
+               self.pid, self.text, self.first, self.last, self.begin, self.end))
 
 failures = set()
 
@@ -59,7 +59,7 @@ for (first, last, pid) in get:
 transcript = etree.parse(sys.argv[1])
 utterances = []
 
-for utterance_element in transcript.xpath("BODY/P"):
+for utterance_element in transcript.xpath("BODY/SYNC"):
    speaker_first = utterance_element.xpath('@first')
    speaker_last  = utterance_element.xpath('@last')
    #Added xpaths for the begenning and end
@@ -99,4 +99,4 @@ for (first, last) in failures:
    print("%s, %s" % (last, first))
 
 conn.commit()
-cnn.close()
+conn.close()
